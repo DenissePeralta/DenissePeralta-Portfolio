@@ -6,6 +6,7 @@ const MyInfo = () => {
     return (
         <section className="myInfo">
             <img src={aboutMe} alt="About me" className="aboutImage"></img>
+            <p>I was born in Veracruz, Mexico. </p>
         </section>
     );
   }
