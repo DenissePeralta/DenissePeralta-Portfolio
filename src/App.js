@@ -6,11 +6,11 @@ import './App.css';
 
 function App() {
   return (
-      <BrowserRouter basename={window.location.pathname || ''}> 
+      <Router basename={window.location.pathname || ''}> 
         <Route exact path="/" component={HomePortfolio} />
         <Route exact path="/portafolioEnEspañol" component={HomePortfolioSpa} />
-      </BrowserRouter>
+      </Router>
   );
-
+}
 
 export default App;
