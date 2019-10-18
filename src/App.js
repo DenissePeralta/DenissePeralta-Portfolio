@@ -6,11 +6,11 @@ import './App.css';
 
 function App() {
   return (
-      <Router>
-        <Route exact path="/DenissePeralta-Portfolio" component={HomePortfolio} />
+      <BrowserRouter basename={window.location.pathname || ''}> 
+        <Route exact path="/" component={HomePortfolio} />
         <Route exact path="/portafolioEnEspañol" component={HomePortfolioSpa} />
-      </Router>
+      </BrowserRouter>
   );
-}
+
 
 export default App;
