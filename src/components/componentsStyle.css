@@ -52,9 +52,23 @@
     color: #000000;
 }
 
+.myInfo {
+    display: grid;
+    grid-template-columns: 35% 62%;
+}
+
 .aboutImage, .acercaImage {
-    width: 30%;
+    grid-column-start: 1;
+    width: 90%;
+    padding: 10px;
+}
+
+.aboutDescrip, .acercaDescrip {
+    font-size: 19px;
+    grid-column-start: 2;
     padding: 15px;
+    text-align: justify;
+    width: 95%;
 }
 
 /*.firstS {
@@ -66,4 +80,4 @@
     width: 100%;
     background: rgba(255,255,255,0.3);
     border: 1px solid #FFFFFF;
-    border-radius: 6px;*/
+    border-radius: 6px; #73344B #BF849A  #262022 #025930  #038C3E */

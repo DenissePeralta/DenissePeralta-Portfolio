@@ -8,7 +8,7 @@ import roleDen from '../images/dpbRoleEsp.png';
 function IntroSpanish() {
   return (
     <section className="introductionSpa">
-        <p className="changeLanguage"><Link to="/" className="links">Versión Inglés</Link></p>
+        <p className="changeLanguage"><Link to="/DenissePeralta-Portfolio" className="links">Versión Inglés</Link></p>
         <img src={photoDen} alt="Denisse" className="denPhoto"></img>
         <img src={nameDen} alt="Denisse name" className="denName"></img>
         <img src={roleDen}alt="Denisse role" className="denRole"></img>
