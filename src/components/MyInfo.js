@@ -7,9 +7,9 @@ const MyInfo = () => {
         <section className="myInfo">
             <img src={aboutMe} alt="About me" className="aboutImage"></img>
             <p className="aboutDescrip">I was born in Veracruz, Mexico. I'm so passionate about dancing, 
-            painting and create things with any kind of materials. I studied the bachelor in Business 
+            travelling, painting and create new things with any kind of materials. I studied the bachelor in Business 
             Administration but now I'm discovering a big interest in programming and technology. I love the
-            idea of build new innovative web products and amazing apps to resolve some 
+            idea of build innovative web products and amazing apps to resolve some 
             real life issues.</p>
         </section>
     );
