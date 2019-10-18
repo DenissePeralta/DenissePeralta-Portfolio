@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DenissePeralta-Portfolio/static/css/main.6e9a8a92.chunk.css",
-    "main.js": "/DenissePeralta-Portfolio/static/js/main.9cf46fbe.chunk.js",
-    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.9cf46fbe.chunk.js.map",
+    "main.css": "/DenissePeralta-Portfolio/static/css/main.7052011c.chunk.css",
+    "main.js": "/DenissePeralta-Portfolio/static/js/main.2a091e7b.chunk.js",
+    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.2a091e7b.chunk.js.map",
     "runtime-main.js": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js",
     "runtime-main.js.map": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js.map",
-    "static/js/2.3159ee11.chunk.js": "/DenissePeralta-Portfolio/static/js/2.3159ee11.chunk.js",
-    "static/js/2.3159ee11.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.3159ee11.chunk.js.map",
+    "static/js/2.3d345010.chunk.js": "/DenissePeralta-Portfolio/static/js/2.3d345010.chunk.js",
+    "static/js/2.3d345010.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.3d345010.chunk.js.map",
     "index.html": "/DenissePeralta-Portfolio/index.html",
-    "precache-manifest.5bcd652fa2a7d03716ca7c0d64023dee.js": "/DenissePeralta-Portfolio/precache-manifest.5bcd652fa2a7d03716ca7c0d64023dee.js",
+    "precache-manifest.1a7b32dd1874b0fc9d5503160a69177b.js": "/DenissePeralta-Portfolio/precache-manifest.1a7b32dd1874b0fc9d5503160a69177b.js",
     "service-worker.js": "/DenissePeralta-Portfolio/service-worker.js",
-    "static/css/main.6e9a8a92.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.6e9a8a92.chunk.css.map",
+    "static/css/main.7052011c.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.7052011c.chunk.css.map",
     "static/media/aboutMe.png": "/DenissePeralta-Portfolio/static/media/aboutMe.d51a7797.png",
     "static/media/acercaDeMi.png": "/DenissePeralta-Portfolio/static/media/acercaDeMi.969a4fae.png",
     "static/media/dpbName.png": "/DenissePeralta-Portfolio/static/media/dpbName.af68754f.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9bc51a37.js",
-    "static/js/2.3159ee11.chunk.js",
-    "static/css/main.6e9a8a92.chunk.css",
-    "static/js/main.9cf46fbe.chunk.js"
+    "static/js/2.3d345010.chunk.js",
+    "static/css/main.7052011c.chunk.css",
+    "static/js/main.2a091e7b.chunk.js"
   ]
 }
