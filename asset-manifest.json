@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Denisse-Peralta-Portfolio/static/css/main.1b762ad8.chunk.css",
-    "main.js": "/Denisse-Peralta-Portfolio/static/js/main.cd302620.chunk.js",
-    "main.js.map": "/Denisse-Peralta-Portfolio/static/js/main.cd302620.chunk.js.map",
-    "runtime-main.js": "/Denisse-Peralta-Portfolio/static/js/runtime-main.10f20dbd.js",
-    "runtime-main.js.map": "/Denisse-Peralta-Portfolio/static/js/runtime-main.10f20dbd.js.map",
-    "static/js/2.3159ee11.chunk.js": "/Denisse-Peralta-Portfolio/static/js/2.3159ee11.chunk.js",
-    "static/js/2.3159ee11.chunk.js.map": "/Denisse-Peralta-Portfolio/static/js/2.3159ee11.chunk.js.map",
-    "index.html": "/Denisse-Peralta-Portfolio/index.html",
-    "precache-manifest.6e4ebe3bcc0031f7ba3e4c6046511ae0.js": "/Denisse-Peralta-Portfolio/precache-manifest.6e4ebe3bcc0031f7ba3e4c6046511ae0.js",
-    "service-worker.js": "/Denisse-Peralta-Portfolio/service-worker.js",
-    "static/css/main.1b762ad8.chunk.css.map": "/Denisse-Peralta-Portfolio/static/css/main.1b762ad8.chunk.css.map",
-    "static/media/aboutMe.png": "/Denisse-Peralta-Portfolio/static/media/aboutMe.d51a7797.png",
-    "static/media/acercaDeMi.png": "/Denisse-Peralta-Portfolio/static/media/acercaDeMi.969a4fae.png",
-    "static/media/dpbName.png": "/Denisse-Peralta-Portfolio/static/media/dpbName.af68754f.png",
-    "static/media/dpbPhoto3.png": "/Denisse-Peralta-Portfolio/static/media/dpbPhoto3.1f8db121.png",
-    "static/media/dpbRole.png": "/Denisse-Peralta-Portfolio/static/media/dpbRole.2ca53ab2.png",
-    "static/media/dpbRoleEsp.png": "/Denisse-Peralta-Portfolio/static/media/dpbRoleEsp.3d04c380.png",
-    "static/media/componentsStyle.css": "/Denisse-Peralta-Portfolio/static/media/introductionBG.7de27368.gif"
+    "main.css": "/DenissePeralta-Portfolio/static/css/main.e553ffff.chunk.css",
+    "main.js": "/DenissePeralta-Portfolio/static/js/main.dcf63981.chunk.js",
+    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.dcf63981.chunk.js.map",
+    "runtime-main.js": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js",
+    "runtime-main.js.map": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js.map",
+    "static/js/2.3159ee11.chunk.js": "/DenissePeralta-Portfolio/static/js/2.3159ee11.chunk.js",
+    "static/js/2.3159ee11.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.3159ee11.chunk.js.map",
+    "index.html": "/DenissePeralta-Portfolio/index.html",
+    "precache-manifest.f4d3136401bb9a7bff01548c106d18f4.js": "/DenissePeralta-Portfolio/precache-manifest.f4d3136401bb9a7bff01548c106d18f4.js",
+    "service-worker.js": "/DenissePeralta-Portfolio/service-worker.js",
+    "static/css/main.e553ffff.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.e553ffff.chunk.css.map",
+    "static/media/aboutMe.png": "/DenissePeralta-Portfolio/static/media/aboutMe.d51a7797.png",
+    "static/media/acercaDeMi.png": "/DenissePeralta-Portfolio/static/media/acercaDeMi.969a4fae.png",
+    "static/media/dpbName.png": "/DenissePeralta-Portfolio/static/media/dpbName.af68754f.png",
+    "static/media/dpbPhoto3.png": "/DenissePeralta-Portfolio/static/media/dpbPhoto3.1f8db121.png",
+    "static/media/dpbRole.png": "/DenissePeralta-Portfolio/static/media/dpbRole.2ca53ab2.png",
+    "static/media/dpbRoleEsp.png": "/DenissePeralta-Portfolio/static/media/dpbRoleEsp.3d04c380.png",
+    "static/media/componentsStyle.css": "/DenissePeralta-Portfolio/static/media/introductionBG.7de27368.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.10f20dbd.js",
+    "static/js/runtime-main.9bc51a37.js",
     "static/js/2.3159ee11.chunk.js",
-    "static/css/main.1b762ad8.chunk.css",
-    "static/js/main.cd302620.chunk.js"
+    "static/css/main.e553ffff.chunk.css",
+    "static/js/main.dcf63981.chunk.js"
   ]
 }
