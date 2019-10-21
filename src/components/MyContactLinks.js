@@ -1,0 +1,1 @@
+import photoDen from '../images/dpbPhoto3.png';
