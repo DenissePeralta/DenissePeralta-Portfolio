@@ -2,26 +2,22 @@ import React from 'react';
 import './componentsStyle.css';
 import acercaDeMi from '../images/acercaDeMi.png';
 
-const MyInfoSpanish = () => {
+const AboutMeSpanish = () => {
     return (
-        <section className="myInfo">
+        <section className="myInfoContainer">
             <img src={acercaDeMi} alt="Acerca de mi" className="acercaImage"></img>
-            <p className="acercaDescrip"> {`Originaria del puerto de Veracruz, México. Me apasiona 
-            bailar, viajar, pintar y crear cosas nuevas con cualquier tipo de material. 
-            Estudié la licenciatura en Administración de Empresas pero ahora estoy descubriendo
-             un gran interés por la programación y la tecnología.`}
+            <p className="acercaDescrip"> {`Soy una mujer apasionada con el baile y la música, disfruto mucho 
+            viajar e impresionarme con los diversos paisajes, sabores y tradiciones de los lugares que visito. 
+            Me considero una soñadora innata que busca siempre plasmar las ideas en acciones concretas, curiosa
+            por explorar y aprender. 
+            Estudié la licenciatura en Administración de Empresas con experiencia en el área de Finanzas
+            pero actualmente estoy descubriendo un gran interés por el diseño gráfico, la programación y la tecnología ❤.`}
              <br></br><br></br>
-            {`Disfruto aprendiendo, explorando y evolucionando en este viaje de la vida. Me veo 
-            como una persona decidida que constantemente persigue sus objetivos. Me gusta llevar 
-            las ideas a la acción usando mis habilidades como planificación, organización, análisis, 
-            toma de decisiones y liderazgo.`}
-            <br></br><br></br>
-            {`Una de las cosas más gratificantes para mí es involucrarme en diferentes actividades 
-            sociales, me preocupa el bienestar de las personas y la comunidad que me rodea, así que me encanta 
-            la idea de crear productos web innovadores y aplicaciones increíbles para resolver algunos problemas 
-            de la vida real.`}</p>
+            {`Tengo el objetivo de ser partícipe en actividades 
+            orientadas a luchar por el bienestar y el desarrollo de las comunidades que me rodean, así que me encanta la idea de poder crear productos web 
+            innovadores y aplicaciones increíbles para proporcionar una solución digital a algunos de los retos y desafíos que se viven día a día en la sociedad. `}</p>
         </section>
     );
   }
   
-  export default MyInfoSpanish;
+  export default AboutMeSpanish;

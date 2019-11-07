@@ -1,12 +1,14 @@
 import React from 'react';
 import Intro from './Intro.js';
-import MyInfo from './MyInfo.js';
+import AboutMe from './MyInfo.js';
+import MySkills from './MySkills.js';
 
 const HomePortfolio = () => {
   return (
     <section>
       <Intro />
-      <MyInfo />
+      <AboutMe />
+      <MySkills />
     </section>
   );
 }
