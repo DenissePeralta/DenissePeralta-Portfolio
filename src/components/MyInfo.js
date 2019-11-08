@@ -12,7 +12,7 @@ const AboutMe = () => {
             I studied the bachelor in Business Administration with experience in the Financial area but now I’m 
             discovering a big interest in graphic design, programming and technology ❤.`}
             <br></br><br></br>
-            {`I have the goal of participate in social activities aimed to fight for the well-being and development 
+            {`I have the goal to get involve in social activities aimed to fight for the well-being and development 
             of the communities around me, so I love the idea of ​​being able to create innovative web products and 
             incredible applications to provide a digital solution to some of the challenges lived day by day in the society.`}</p>
         </section>
