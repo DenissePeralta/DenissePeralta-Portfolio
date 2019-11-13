@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DenissePeralta-Portfolio/static/css/main.0fb7b980.chunk.css",
-    "main.js": "/DenissePeralta-Portfolio/static/js/main.a8176639.chunk.js",
-    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.a8176639.chunk.js.map",
+    "main.js": "/DenissePeralta-Portfolio/static/js/main.4942e1bb.chunk.js",
+    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.4942e1bb.chunk.js.map",
     "runtime-main.js": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js",
     "runtime-main.js.map": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js.map",
-    "static/js/2.b45270bc.chunk.js": "/DenissePeralta-Portfolio/static/js/2.b45270bc.chunk.js",
-    "static/js/2.b45270bc.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.b45270bc.chunk.js.map",
+    "static/js/2.ce966e86.chunk.js": "/DenissePeralta-Portfolio/static/js/2.ce966e86.chunk.js",
+    "static/js/2.ce966e86.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.ce966e86.chunk.js.map",
     "index.html": "/DenissePeralta-Portfolio/index.html",
-    "precache-manifest.2fb2943663ab82eeab773c4c71ee1fee.js": "/DenissePeralta-Portfolio/precache-manifest.2fb2943663ab82eeab773c4c71ee1fee.js",
+    "precache-manifest.698c50e463064ccfe8e3e9887752f1ed.js": "/DenissePeralta-Portfolio/precache-manifest.698c50e463064ccfe8e3e9887752f1ed.js",
     "service-worker.js": "/DenissePeralta-Portfolio/service-worker.js",
     "static/css/main.0fb7b980.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.0fb7b980.chunk.css.map",
     "static/media/aboutMe1.png": "/DenissePeralta-Portfolio/static/media/aboutMe1.f4145021.png",
@@ -17,6 +17,8 @@
     "static/media/index.css": "/DenissePeralta-Portfolio/static/media/background1.5b7d6346.jpg",
     "static/media/dpbRole.png": "/DenissePeralta-Portfolio/static/media/dpbRole.83426dd7.png",
     "static/media/dpbRoleEsp.png": "/DenissePeralta-Portfolio/static/media/dpbRoleEsp.0f92ca45.png",
+    "static/media/myProjects.png": "/DenissePeralta-Portfolio/static/media/myProjects.23866743.png",
+    "static/media/myProjectsEsp.png": "/DenissePeralta-Portfolio/static/media/myProjectsEsp.34063fc3.png",
     "static/media/mySkills1.png": "/DenissePeralta-Portfolio/static/media/mySkills1.37647764.png",
     "static/media/mySkillsEsp1.png": "/DenissePeralta-Portfolio/static/media/mySkillsEsp1.00583fae.png",
     "static/media/tech1.png": "/DenissePeralta-Portfolio/static/media/tech1.6790a904.png",
@@ -48,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9bc51a37.js",
-    "static/js/2.b45270bc.chunk.js",
+    "static/js/2.ce966e86.chunk.js",
     "static/css/main.0fb7b980.chunk.css",
-    "static/js/main.a8176639.chunk.js"
+    "static/js/main.4942e1bb.chunk.js"
   ]
 }
