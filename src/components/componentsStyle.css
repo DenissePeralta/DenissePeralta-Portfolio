@@ -28,7 +28,7 @@
     margin-right: 15px;
     padding: 5px;
     text-align: center;
-    width: 8%;
+    width: auto;
 }
 
 .links {
@@ -95,6 +95,22 @@
 
 .skillsIcons:hover {
     width: 21%;
+}
+
+.myProjectsContainer {
+    display: grid;
+    margin-top: 100px;
+    grid-template-columns: 35% 62%;
+    color: #000000;
+    padding: 10px;
+}
+
+.projectsImage {
+    align-self: center;
+    grid-column-start: 1;
+    justify-self: end;
+    width: 95%;
+    padding: 8px;
 }
 
 .denPhoto {

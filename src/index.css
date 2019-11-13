@@ -15,3 +15,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+footer {
+  background-color: #0D0D0D;
+  color: #FFFFFF;
+  height: 12%;
+  margin-top: 80px;
+  padding: 30px;
+  text-align: center;
+}
+
