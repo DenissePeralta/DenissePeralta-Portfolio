@@ -39,19 +39,22 @@
 .myInfoContainer {
     display: grid;
     margin-top: 100px;
-    grid-template-columns: 40% 57%;
-    color: #FFFFFF;
+    grid-template-columns: 30% 67%;
+    color: #000000;
+    padding: 10px;
 }
 
 .aboutImage, .acercaImage {
+    align-self: center;
     grid-column-start: 1;
-    width: 80%;
-    padding: 10px;
+    width: 95%;
+    padding: 8px;
 }
 
 .aboutDescrip, .acercaDescrip {
     align-self: center;
-    background: rgba(0,0,0,0.8);
+    background: rgba(255,255,255,0.6);
+    border-radius: 12px;
     font-size: 22px;
     grid-column-start: 2;
     padding: 30px;
@@ -62,25 +65,36 @@
 .mySkillsContainer {
     display: grid;
     margin-top: 100px;
-    grid-template-columns: 57% 40%;
-    color: #FFFFFF;
+    grid-template-columns: 67% 30%;
+    color: #000000;
+    padding: 10px;
 }
 
 .skillsImage {
+    align-self: center;
     grid-column-start: 2;
     justify-self: end;
-    width: 80%;
-    padding: 10px;
+    width: 95%;
+    padding: 8px;
 }
 
 .mySkills {
     align-self: center;
-    background: rgba(0,0,0,0.8);
-    font-size: 19px;
+    background: rgba(255,255,255,0.6);
+    border-radius: 12px;
+    font-size: 22px;
     grid-column-start: 1;
     padding: 20px;
     text-align: justify;
     width: 96%;
+}
+
+.skillsIcons {
+    width: 19%;
+}
+
+.skillsIcons:hover {
+    width: 21%;
 }
 
 .denPhoto {
@@ -91,13 +105,4 @@
     width: 85%;
 }
 
-/*.firstS {
-    background-attachment: fixed;
-    background-image: url("Images/backgoundbw.png");
-    background-position: center center;
-    background-size: cover;
-    height: 110%;
-    width: 100%;
-    background: rgba(255,255,255,0.3);
-    border: 1px solid #FFFFFF;
-    border-radius: 6px; #73344B #BF849A  #262022 #025930  #038C3E */
+/* border-radius: 6px; #73344B #BF849A  #262022 #025930  #038C3E */

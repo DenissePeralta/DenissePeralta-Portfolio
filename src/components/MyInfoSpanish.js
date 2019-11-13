@@ -1,6 +1,6 @@
 import React from 'react';
 import './componentsStyle.css';
-import acercaDeMi from '../images/acercaDeMi.png';
+import acercaDeMi from '../images/acercaDeMi1.png';
 
 const AboutMeSpanish = () => {
     return (
@@ -11,10 +11,10 @@ const AboutMeSpanish = () => {
             Me considero una soñadora innata que busca siempre plasmar las ideas en acciones concretas, curiosa
             por explorar y aprender. 
             Estudié la licenciatura en Administración de Empresas con experiencia en el área de Finanzas
-            pero actualmente estoy descubriendo un gran interés por el diseño gráfico, la programación y la tecnología ❤.`}
+            pero actualmente estoy descubriendo un gran interés por el diseño gráfico, la programación y la tecnología ❤❤`}
              <br></br><br></br>
-            {`Tengo el objetivo de ser partícipe en actividades 
-            orientadas a luchar por el bienestar y el desarrollo de las comunidades que me rodean, así que me encanta la idea de poder crear productos web 
+            {`Tengo el objetivo de participar en actividades 
+            orientadas a luchar por el bienestar y el desarrollo de las comunidades y ecosistemas que me rodean, así que me encanta la idea de poder crear productos web 
             innovadores y aplicaciones increíbles para proporcionar una solución digital a algunos de los retos y desafíos que se viven día a día en la sociedad. `}</p>
         </section>
     );
