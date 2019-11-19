@@ -102,7 +102,7 @@
     margin-top: 100px;
     grid-template-columns: 35% 62%;
     color: #000000;
-    padding: 10px;
+    justify-self: end;
 }
 
 .projectsImage {
@@ -113,12 +113,73 @@
     padding: 8px;
 }
 
-.denPhoto {
-    align-self: center;
-    grid-column-start: 2;
-    grid-row-start: 2;
-    justify-self: center;
-    width: 85%;
+.sliderContainer {
+    max-width: 95%;
+    border: 10px solid white;
+    margin: 50px auto;
+    padding: 8px;
+    position: relative;
 }
 
-/* border-radius: 6px; #73344B #BF849A  #262022 #025930  #038C3E */
+.sliderContainer .leftSlide, .sliderContainer .rightSlide {
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 22px;
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(0,0,0,0.9);
+    border-radius: 50%;
+    top: 40%;
+    text-align: center;
+    line-height: 36px;
+    transition: all .5s ease;
+}
+
+.sliderContainer .leftSlide:hover, .sliderContainer .rightSlide:hover {
+    background-color: #E3A384;
+}
+
+.sliderContainer .leftSlide {
+    left: 30px;
+}
+
+.sliderContainer .rightSlide {
+    right: 30px;
+}
+
+.sliderContainer .sliderItems .item img {
+    max-width: 100%;
+}
+
+.sliderContainer .sliderItems .item .caption {
+    background-color: #FFFFFF;
+    position: absolute;
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+    left: 0px;
+    font-size: 15px;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.slideDescription {
+    margin-bottom: 10px;
+}
+
+.buttonsContainer {
+    margin-top: 10px;
+}
+
+.codeButton, .demoButton {
+    text-decoration: none;
+    border-radius: 6px;
+    color: #FFFFFF;
+    background-color: #E3A384;
+    padding: 5px;
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+

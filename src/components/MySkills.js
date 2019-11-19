@@ -14,6 +14,7 @@ const MySkills = () => {
              <img src={require('../images/value6.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/value7.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/value8.png')} alt="My Skills" className="skillsIcons"></img>
+             <img src={require('../images/value9.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/tech1.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/tech2.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/tech3.png')} alt="My Skills" className="skillsIcons"></img>
