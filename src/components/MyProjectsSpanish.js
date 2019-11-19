@@ -28,11 +28,11 @@ const MyProjectsSpanish = () => {
                             <div className="caption">
                                 <span className="slideDescription">
                                     {`POKEMON`}<br></br>
-                                    {`Web app to see, filter and sort Pokemon. Collaborative work.`}<br></br>
+                                    {`Aplicación web para visualizar, filtrar y ordenar a los personajes del mundo Pokemon. Trabajo colaborativo.`}<br></br>
                                     {`HTML5, CSS3, JS ES6`}
                                 </span>
                                 <div className="buttonsContainer">
-                                    <a href="https://github.com/DenissePeralta/GDL003-cipher" className="codeButton" target="_blank" rel="noopener noreferrer">Code</a>
+                                    <a href="https://github.com/DenissePeralta/GDL003-data-lovers" className="codeButton" target="_blank" rel="noopener noreferrer">Code</a>
                                     <a href="https://github.com/DenissePeralta/GDL003-cipher" className="demoButton" target="_blank" rel="noopener noreferrer">Demo</a>
                                 </div>
                             </div>

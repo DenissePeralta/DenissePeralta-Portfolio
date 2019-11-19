@@ -166,12 +166,11 @@
 .contactMeContainer {
     text-align: center;
     margin-top: 80px;
-    color: #000000;
     padding: 10px;
     width: 80%;
     margin: auto;
 }
 .contactIcon {
-    width: 8%;
-    margin: 20px;
+    width: 10%;
+    margin: 15px;
 }
