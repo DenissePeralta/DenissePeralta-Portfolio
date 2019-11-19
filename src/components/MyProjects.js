@@ -1,8 +1,6 @@
 import React from 'react';
 import './componentsStyle.css';
 import myProjects from '../images/myProjects.png';
-// import project1 from '../images/cipher.jpg';
-// import project2 from '../images/datalovers.jpg';
 
 
 const MyProjects = () => {
@@ -40,8 +38,6 @@ const MyProjects = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="leftSlide">❮</div>
-                    <div className="rightSlide">❯</div>
                 </section>
         </section>
     );
