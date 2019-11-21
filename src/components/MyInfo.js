@@ -1,11 +1,10 @@
 import React from 'react';
 import './componentsStyle.css';
-import aboutMe from '../images/aboutMe1.png';
 
 const AboutMe = () => {
     return (
         <section className="myInfoContainer">
-            <img src={aboutMe} alt="About me" className="aboutImage"></img>
+            <p className="aboutTitle">ABOUT ME</p>
             <p className="aboutDescrip">{`I’m a woman passionate about dancing and music, I enjoy to travel and be amazed 
             with the different landscapes, flavors and traditions of the places I go. I see myself  as an innate dreamer 
             who always seeks to translate ideas into concrete actions, curious to explore and learn new things.

@@ -1,15 +1,13 @@
 import React from 'react';
 import './componentsStyle.css';
-import myProjects from '../images/myProjects.png';
-
 
 const MyProjects = () => {
     return (
         <section className="myProjectsContainer">
-            <img src={myProjects} alt="My Projects" className="projectsImage"></img>
+            <p className="projectsTitle">PRO<br></br>JECTS</p>
                 <section className="sliderContainer">
                     <div className="sliderItems">
-                        <div className="item active">
+                        <div className="item">
                             <img src={require('../images/cipher.jpg')} alt="My Projects"></img>
                             <div className="caption">
                                 <span className="slideDescription">
@@ -18,8 +16,8 @@ const MyProjects = () => {
                                     {`HTML5, CSS3, JS ES6`}
                                 </span>
                                 <div className="buttonsContainer">
-                                    <a href="https://github.com/DenissePeralta/GDL003-cipher" className="codeButton" target="_blank" rel="noopener noreferrer">Code</a>
-                                    <a href="https://github.com/DenissePeralta/GDL003-cipher" className="demoButton" target="_blank" rel="noopener noreferrer">Demo</a>
+                                    <a href="https://github.com/DenissePeralta/GDL003-cipher" className="codeButton" target="_blank" rel="noopener noreferrer">View Code</a>
+                                    <a href="https://github.com/DenissePeralta/GDL003-cipher" className="demoButton" target="_blank" rel="noopener noreferrer">View Project</a>
                                 </div>
                             </div>
                         </div>
@@ -32,8 +30,8 @@ const MyProjects = () => {
                                     {`HTML5, CSS3, JS ES6`}
                                 </span>
                                 <div className="buttonsContainer">
-                                    <a href="https://github.com/DenissePeralta/GDL003-data-lovers" className="codeButton" target="_blank" rel="noopener noreferrer">Code</a>
-                                    <a href="https://github.com/DenissePeralta/GDL003-cipher" className="demoButton" target="_blank" rel="noopener noreferrer">Demo</a>
+                                    <a href="https://github.com/DenissePeralta/GDL003-data-lovers" className="codeButton" target="_blank" rel="noopener noreferrer">View Code</a>
+                                    <a href="https://github.com/DenissePeralta/GDL003-cipher" className="demoButton" target="_blank" rel="noopener noreferrer">View Project</a>
                                 </div>
                             </div>
                         </div>

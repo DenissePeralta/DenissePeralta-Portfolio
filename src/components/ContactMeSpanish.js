@@ -2,7 +2,7 @@ import React from 'react';
 import './componentsStyle.css';
 import CV from "../images/DenissePeraltaCV.pdf";
 
-const ContactMe = () => {
+const ContactMeSpanish = () => {
     return (
         <section className="contactMeContainer">
             <section className="contactMeList">
@@ -19,9 +19,9 @@ const ContactMe = () => {
                     <img src={require('../images/resume.png')} alt="Social Media" className="contactIcon"></img>
                 </a>
             </section>
-            <p className="contactMeTitle">CONTACT ME</p>
+            <p className="contactMeTitle">CONTÁCTAME</p>
         </section>
     );
 }
   
-export default ContactMe;
+export default ContactMeSpanish;

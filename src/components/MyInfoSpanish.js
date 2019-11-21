@@ -1,12 +1,11 @@
 import React from 'react';
 import './componentsStyle.css';
-import acercaDeMi from '../images/acercaDeMi1.png';
 
 const AboutMeSpanish = () => {
     return (
         <section className="myInfoContainer">
-            <img src={acercaDeMi} alt="Acerca de mi" className="acercaImage"></img>
-            <p className="acercaDescrip"> {`Soy una mujer apasionada con el baile y la música, disfruto mucho 
+            <p className="aboutTitle">ACERCA DE MI</p>
+            <p className="aboutDescrip"> {`Soy una mujer apasionada con el baile y la música, disfruto mucho 
             viajar e impresionarme con los diversos paisajes, sabores y tradiciones de los lugares que visito. 
             Me considero una soñadora innata que busca siempre plasmar las ideas en acciones concretas, curiosa
             por explorar y aprender. 

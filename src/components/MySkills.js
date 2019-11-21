@@ -1,11 +1,10 @@
 import React from 'react';
 import './componentsStyle.css';
-import mySkills from '../images/mySkills1.png';
 
 const MySkills = () => {
     return (
         <section className="mySkillsContainer">
-            <section className="mySkills">
+            <section className="mySkillsList">
              <img src={require('../images/value1.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/value2.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/value3.png')} alt="My Skills" className="skillsIcons"></img>
@@ -26,7 +25,7 @@ const MySkills = () => {
              <img src={require('../images/tech9.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/tech10.png')} alt="My Skills" className="skillsIcons"></img>
             </section>
-            <img src={mySkills} alt="My Skills" className="skillsImage"></img>
+            <p className="skillsTitle">SKILLS</p>
         </section>
     );
   }
