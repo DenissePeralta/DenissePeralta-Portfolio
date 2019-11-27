@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DenissePeralta-Portfolio/precache-manifest.0c9524611e92e80f760c8bb2e9220876.js"
+  "/DenissePeralta-Portfolio/precache-manifest.bc68d6ef45784a26679be9a2a6bd3338.js"
 );
 
 self.addEventListener('message', (event) => {
