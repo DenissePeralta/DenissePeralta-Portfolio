@@ -19,16 +19,17 @@
 }
 
 .changeLanguage {
-    background: rgba(255,255,255,0.8);
+    align-self: center;
+    background: rgba(255,255,255,0.9);
     border: none;
     border-radius: 6px;
     cursor: pointer;
-    float: right;
     font-size: 12px;
     font-weight: bold;
     justify-self: end;
-    margin-right: 15px;
-    padding: 5px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 10px;
     text-align: center;
     width: auto;
 }
@@ -179,8 +180,8 @@
 
 .contactMeContainer {
     display: grid;
-    margin-top: 10px;
-    grid-template-columns: 54% 46%;
+    margin-top: 5px;
+    grid-template-columns: 64% 36%;
     color: #000000;
     padding: 10px;
     text-align: center;
@@ -210,10 +211,11 @@
 }
 
 .contactIcon {
-    width: 14%;
-    margin: 0px 20px 0px 20px;
+    align-self: center;
+    width: 15%;
+    margin: 10px 20px 10px 20px;
 }
 
 .contactIcon:hover {
-    width: 15%;
+    width: 16%;
 }

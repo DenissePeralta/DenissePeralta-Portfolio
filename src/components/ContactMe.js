@@ -19,7 +19,7 @@ const ContactMe = () => {
                     <img src={require('../images/resume.png')} alt="Social Media" className="contactIcon"></img>
                 </a>
             </section>
-            <p className="contactMeTitle">CONTACT ME</p>
+            <p className="contactMeTitle">CONTACT<br></br>ME</p>
         </section>
     );
 }
