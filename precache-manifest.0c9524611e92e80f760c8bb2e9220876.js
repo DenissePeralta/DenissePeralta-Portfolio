@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a66cb81062c42af610a3aeab6a2d8183",
+    "revision": "d219dfcdfc60dfaa40fbae3a6d47d784",
     "url": "/DenissePeralta-Portfolio/index.html"
   },
   {
-    "revision": "5cd3d805af6731c34ab2",
+    "revision": "49bcf792fd099618eb12",
     "url": "/DenissePeralta-Portfolio/static/css/main.e147a64d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DenissePeralta-Portfolio/static/js/2.25e659f5.chunk.js"
   },
   {
-    "revision": "5cd3d805af6731c34ab2",
-    "url": "/DenissePeralta-Portfolio/static/js/main.49dfad20.chunk.js"
+    "revision": "49bcf792fd099618eb12",
+    "url": "/DenissePeralta-Portfolio/static/js/main.91b651ed.chunk.js"
   },
   {
     "revision": "a4b4adf1872be9c6d1bd",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DenissePeralta-Portfolio/static/media/github.7af5572e.png"
   },
   {
-    "revision": "40bbbfa24976333f50ccc652e4b239f9",
-    "url": "/DenissePeralta-Portfolio/static/media/labnotes.40bbbfa2.gif"
+    "revision": "adb43b1c72c74805ee5be51ebbb06a02",
+    "url": "/DenissePeralta-Portfolio/static/media/labnotess.adb43b1c.gif"
   },
   {
     "revision": "6790a904604aa54edb121ac33ade3546",
