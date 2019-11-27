@@ -36,7 +36,7 @@ const MyProjects = () => {
                             </div>
                         </div>
                         <div className="item">
-                            <img src={require('../images/labnotes.gif')} alt="My Projects"></img>
+                            <img src={require('../images/labnotess.gif')} alt="My Projects"></img>
                             <div className="caption">
                                 <span className="slideDescription">
                                     {`HOUR TIME`}<br></br>
