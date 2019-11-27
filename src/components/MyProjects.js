@@ -44,8 +44,8 @@ const MyProjects = () => {
                                     {`HTML5, CSS3, JS ES6, Git and GitHub, GitHub Projects, Figma and React`}
                                 </span>
                                 <div className="buttonsContainer">
-                                    <a href="https://github.com/DenissePeralta/GDL003-lab-notes" className="codeButton" target="_blank" rel="noopener noreferrer">Ver Código</a>
-                                    <a href="https://denisseperalta.github.io/GDL003-lab-notes/" className="demoButton" target="_blank" rel="noopener noreferrer">Ver Proyecto</a>
+                                    <a href="https://github.com/DenissePeralta/GDL003-lab-notes" className="codeButton" target="_blank" rel="noopener noreferrer">View Code</a>
+                                    <a href="https://denisseperalta.github.io/GDL003-lab-notes/" className="demoButton" target="_blank" rel="noopener noreferrer">View Project</a>
                                 </div>
                             </div>
                         </div>
