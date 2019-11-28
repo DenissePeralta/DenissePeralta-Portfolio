@@ -13,7 +13,7 @@ const MyProjects = () => {
                                 <span className="slideDescription">
                                     {`SHHH!`}<br></br>
                                     {`Web app to cipher and decipher text and messages. Individual work.`}<br></br>
-                                    {`HTML5, CSS3, JS ES6, Git and GitHub`}
+                                    {`HTML5, CSS3, JS ES6, Git and GitHub, Kanban, Ribbet, Responsive`}
                                 </span>
                                 <div className="buttonsContainer">
                                     <a href="https://github.com/DenissePeralta/GDL003-cipher" className="codeButton" target="_blank" rel="noopener noreferrer">View Code</a>
@@ -27,7 +27,7 @@ const MyProjects = () => {
                                 <span className="slideDescription">
                                     {`POKEMON`}<br></br>
                                     {`Web app to see, filter and sort character cards from the Pokemon world. Collaborative work.`}<br></br>
-                                    {`HTML5, CSS3, JS ES6, Git and GitHub, Figma`}
+                                    {`HTML5, CSS3, JS ES6, Git and GitHub, Google Charts, Kanban, Figma, Ribbet, Responsive`}
                                 </span>
                                 <div className="buttonsContainer">
                                     <a href="https://github.com/DenissePeralta/GDL003-data-lovers" className="codeButton" target="_blank" rel="noopener noreferrer">View Code</a>
@@ -41,7 +41,7 @@ const MyProjects = () => {
                                 <span className="slideDescription">
                                     {`HOUR TIME`}<br></br>
                                     {`Web app to create, delete and edit notes. Individual work.`}<br></br>
-                                    {`HTML5, CSS3, JS ES6, Git and GitHub, GitHub Projects, Figma and React`}
+                                    {`HTML5, CSS3, JS ES6, Git and GitHub, GitHub Projects, Figma, Ribbet, React, Firebase`}
                                 </span>
                                 <div className="buttonsContainer">
                                     <a href="https://github.com/DenissePeralta/GDL003-lab-notes" className="codeButton" target="_blank" rel="noopener noreferrer">View Code</a>

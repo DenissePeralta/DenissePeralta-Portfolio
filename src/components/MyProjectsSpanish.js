@@ -13,7 +13,7 @@ const MyProjectsSpanish = () => {
                                 <span className="slideDescription">
                                     {`SHHH!`}<br></br>
                                     {`Aplicación web para cifrar y descifrar texto y mensajes. Trabajo individual.`}<br></br>
-                                    {`HTML5, CSS3, JS ES6, Git and GitHub`}
+                                    {`HTML5, CSS3, JS ES6, Git y GitHub, Kanban, Ribbet, Responsivo`}
                                 </span>
                                 <div className="buttonsContainer">
                                     <a href="https://github.com/DenissePeralta/GDL003-cipher" className="codeButton" target="_blank" rel="noopener noreferrer">Ver Código</a>
@@ -27,7 +27,7 @@ const MyProjectsSpanish = () => {
                                 <span className="slideDescription">
                                     {`POKEMON`}<br></br>
                                     {`Aplicación web para visualizar, filtrar y ordenar tarjetas con los personajes del mundo Pokemon. Trabajo colaborativo.`}<br></br>
-                                    {`HTML5, CSS3, JS ES6, Git and GitHub, Figma`}
+                                    {`HTML5, CSS3, JS ES6, Git y GitHub, Google Charts, Kanban, Figma, Ribbet, Responsivo`}
                                 </span>
                                 <div className="buttonsContainer">
                                     <a href="https://github.com/DenissePeralta/GDL003-data-lovers" className="codeButton" target="_blank" rel="noopener noreferrer">Ver Código</a>
@@ -41,7 +41,7 @@ const MyProjectsSpanish = () => {
                                 <span className="slideDescription">
                                     {`HOUR TIME`}<br></br>
                                     {`Aplicación web para crear, eliminar y editar notas. Trabajo individual.`}<br></br>
-                                    {`HTML5, CSS3, JS ES6, Git and GitHub, GitHub Projects, Figma y React`}
+                                    {`HTML5, CSS3, JS ES6, Git y GitHub, GitHub Projects, Figma, Ribbet, React, Firebase`}
                                 </span>
                                 <div className="buttonsContainer">
                                     <a href="https://github.com/DenissePeralta/GDL003-lab-notes" className="codeButton" target="_blank" rel="noopener noreferrer">Ver Código</a>
