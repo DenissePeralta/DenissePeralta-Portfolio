@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "253090d36280bd461cd338a87b85c5b4",
+    "revision": "2c16a8ad6c85e159773b5cc3913e6043",
     "url": "/DenissePeralta-Portfolio/index.html"
   },
   {
-    "revision": "7fde0794db0162c4b3bb",
+    "revision": "403699006124d3b8a76a",
     "url": "/DenissePeralta-Portfolio/static/css/main.e147a64d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DenissePeralta-Portfolio/static/js/2.25e659f5.chunk.js"
   },
   {
-    "revision": "7fde0794db0162c4b3bb",
-    "url": "/DenissePeralta-Portfolio/static/js/main.d4e15ea6.chunk.js"
+    "revision": "403699006124d3b8a76a",
+    "url": "/DenissePeralta-Portfolio/static/js/main.efe61fb6.chunk.js"
   },
   {
     "revision": "a4b4adf1872be9c6d1bd",
