@@ -46,6 +46,7 @@
 .myInfoContainer {
     display: grid;
     grid-template-columns: 32% 68%;
+    margin: 0;
     padding: 2px;
     width: 99%;
 }
@@ -115,7 +116,7 @@
 
 .myProjectsContainer {
     display: grid;
-    margin-top: 30px;
+    margin-top: 10px;
     grid-template-columns: 32% 68%;
     padding: 10px;
 }
@@ -515,7 +516,7 @@
 @media screen and (min-width: 300px) and (max-width: 440px) {
     .introduction, .introductionSpa {
         background-image: url("../images/backgroundM.jpg");
-        height: 650px;
+        height: 680px;
         width: 100%;
     }
     .changeLanguage {
