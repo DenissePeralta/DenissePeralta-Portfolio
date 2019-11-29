@@ -373,12 +373,13 @@
     }
 }
 
-@media screen and (min-width: 400px) and (max-width: 699px) {
+@media screen and (min-width: 441px) and (max-width: 699px) {
     .introduction, .introductionSpa {
         height: 690px;
     }
     .denNameRole {
         width: 90%;
+        justify-self: center;
     }
     .myInfoContainer {
         display: grid;
@@ -511,7 +512,7 @@
 }
 
 
-@media screen and (min-width: 280px) and (max-width: 399px) {
+@media screen and (min-width: 300px) and (max-width: 440px) {
     .introduction, .introductionSpa {
         background-image: url("../images/backgroundM.jpg");
         height: 650px;
@@ -648,7 +649,7 @@
         width: 98%;
     }
     .contactIcon {
-        width: 28%;
+        width: 29%;
         margin: 0;
         padding: 10px;
     }
