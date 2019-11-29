@@ -20,7 +20,7 @@
 
 .changeLanguage {
     align-self: center;
-    background: rgba(255,255,255,0.9);
+    background: rgba(255,255,255,0.7);
     border: none;
     border-radius: 6px;
     cursor: pointer;
@@ -41,14 +41,13 @@
 
 .myInfoContainer {
     display: grid;
-    margin-top: 2px;
     grid-template-columns: 32% 68%;
-    color: #000000;
     padding: 2px;
     width: 99%;
 }
 
 .aboutTitle {
+    color: #FFFFFF;
     font-family: 'Oswald', sans-serif;
     font-size: 10vw;
     align-self: center;
@@ -61,10 +60,12 @@
 
 .aboutDescrip {
     align-self: center;
+    color: #FFFFFF;
     justify-self: stretch;
-    background: rgba(255,255,255,0.6);
+    background: rgba(0,0,0,0.8);
     border-radius: 12px;
     font-size: 1.8vw;
+    font-family: 'Open Sans Condensed', sans-serif;
     grid-column-start: 2;
     padding: 20px;
     text-align: justify;
@@ -72,13 +73,12 @@
 
 .mySkillsContainer {
     display: grid;
-    margin-top: 2px;
     grid-template-columns: 68% 32%;
-    color: #000000;
-    padding: 10px;
+    padding: 6px;
 }
 
 .skillsTitle {
+    color: #FFFFFF;
     font-family: 'Oswald', sans-serif;
     font-size: 10vw;
     align-self: center;
@@ -91,7 +91,7 @@
 
 .mySkillsList {
     align-self: center;
-    background: rgba(255,255,255,0.6);
+    background: rgba(0,0,0,0.8);
     border-radius: 12px;
     font-size: 1.8vw;
     grid-column-start: 1;
@@ -102,22 +102,22 @@
 }
 
 .skillsIcons {
-    width: 19%;
+    width: 17%;
 }
 
 .skillsIcons:hover {
-    width: 21%;
+    width: 19%;
 }
 
 .myProjectsContainer {
     display: grid;
     margin-top: 30px;
     grid-template-columns: 32% 68%;
-    color: #000000;
     padding: 10px;
 }
 
 .projectsTitle {
+    color: #FFFFFF;
     font-family: 'Oswald', sans-serif;
     font-size: 10vw;
     align-self: center;
@@ -131,7 +131,7 @@
 .sliderContainer {
     max-width: 95%;
     border: 10px solid white;
-    margin: 50px auto;
+    margin: 30px auto;
     padding: 8px;
     position: relative;
 }
@@ -144,17 +144,19 @@
 .sliderContainer .sliderItems .item {
     position: relative;
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .sliderContainer .sliderItems .item .caption {
-    background-color: #FFFFFF;
+    background-color: #000000;
+    color: #FFFFFF;
     position: absolute;
     width: 100%;
     height: auto;
     bottom: 0px;
     left: 0px;
-    font-size: 15px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 21px;
     padding: 20px 0px;
     text-align: center;
 }
@@ -164,17 +166,17 @@
 }
 
 .buttonsContainer {
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .codeButton, .demoButton {
     text-decoration: none;
     border-radius: 6px;
     color: #FFFFFF;
-    background-color: #E3A384;
-    padding: 5px;
+    background-color: #fc6767;
+    padding: 7px;
     margin-right: 10px;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: bold;
 }
 
@@ -182,14 +184,13 @@
     display: grid;
     margin-top: 5px;
     grid-template-columns: 64% 36%;
-    color: #000000;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
 }
 
 .contactMeList {
     align-self: center;
-    background: rgba(255,255,255,0.6);
+    background: rgba(0,0,0,0.8);
     border-radius: 12px;
     font-size: 1.8vw;
     grid-column-start: 1;
@@ -200,6 +201,7 @@
 }
 
 .contactMeTitle {
+    color: #FFFFFF;
     font-family: 'Oswald', sans-serif;
     font-size: 8vw;
     align-self: center;
