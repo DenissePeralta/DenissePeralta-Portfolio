@@ -7,7 +7,7 @@ import ContactMeSpanish from './ContactMeSpanish.js';
 
 const HomePortfolioSpa = () => {
   return (
-    <section>
+    <section className="mainComponent">
       <IntroSpanish />
       <AboutMeSpanish />
       <MySkillsSpanish />

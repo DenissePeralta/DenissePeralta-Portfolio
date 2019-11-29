@@ -7,7 +7,7 @@ import ContactMe from './ContactMe.js';
 
 const HomePortfolio = () => {
   return (
-    <section>
+    <section className="mainComponent">
       <Intro />
       <AboutMe />
       <MySkills />

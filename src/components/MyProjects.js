@@ -4,7 +4,7 @@ import './componentsStyle.css';
 const MyProjects = () => {
     return (
         <section className="myProjectsContainer">
-            <p className="projectsTitle">PRO<br></br>JECTS</p>
+            <p className="projectsTitle">PRO JECTS</p>
                 <section className="sliderContainer">
                     <div className="sliderItems">
                         <div className="item">

@@ -1,3 +1,7 @@
+.mainComponent {
+    display: grid;
+}
+
 .introduction, .introductionSpa {
     background-image: url("../images/background0.png");
     background-size: cover;
@@ -5,7 +9,7 @@
     background-position: center center;
     display: grid;
     grid-template-rows: 8% 90%;
-    height: 620px;
+    height: 680px;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -20,14 +24,14 @@
 
 .changeLanguage {
     align-self: center;
-    background: rgba(255,255,255,0.7);
+    background: rgba(255,255,255,0.8);
     border: none;
     border-radius: 6px;
     cursor: pointer;
-    font-size: 12px;
+    font-size: 17px;
     font-weight: bold;
     justify-self: end;
-    margin-top: 20px;
+    margin-top: 25px;
     margin-right: 20px;
     padding: 10px;
     text-align: center;
@@ -131,6 +135,7 @@
 .sliderContainer {
     max-width: 95%;
     border: 10px solid white;
+    grid-column-start: 2;
     margin: 30px auto;
     padding: 8px;
     position: relative;
@@ -220,4 +225,434 @@
 
 .contactIcon:hover {
     width: 16%;
+}
+
+@media screen and (min-width: 900px) and (max-width: 1000px) {
+    .introduction, .introductionSpa {
+        height: 770px;
+    }
+    .denNameRole {
+        width: 80%;
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width: 899px) {
+    .introduction, .introductionSpa {
+        height: 790px;
+    }
+    .denNameRole {
+        width: 90%;
+    }
+    .myInfoContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 90%;
+    }
+    .aboutTitle {
+        font-size: 15vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .aboutDescrip {
+        align-self: center;
+        justify-self: stretch;
+        font-size: 4vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+    }
+    .mySkillsContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 90%;
+    }
+    .skillsTitle {
+        font-size: 16vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .mySkillsList {
+        align-self: center;
+        justify-self: stretch;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+        padding: 15px;
+        text-align: center;
+        width: 96%;
+    }
+    .skillsIcons {
+        width: 29%;
+    }
+    .skillsIcons:hover {
+        width: 31%;
+    }
+    .myProjectsContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 90%;
+    }
+    .projectsTitle {
+        font-size: 16vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .sliderContainer {
+        align-self: center;
+        justify-self: center;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+        padding: 15px;
+        text-align: center;
+        width: 96%;
+    }
+    .contactMeContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 90%;
+    }
+    .contactMeList {
+        align-self: center;
+        justify-self: stretch;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+        padding: 15px;
+        text-align: center;
+        width: 96%;
+    }
+    .contactMeTitle {
+        font-size: 15vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        margin-top: 110px;
+        text-align: center;
+        width: 98%;
+    }
+    .contactIcon {
+        width: 18%;
+        margin: 0;
+        padding: 10px;
+    }
+    .contactIcon:hover {
+        width: 20%;
+    }
+}
+
+@media screen and (min-width: 400px) and (max-width: 699px) {
+    .introduction, .introductionSpa {
+        height: 690px;
+    }
+    .denNameRole {
+        width: 90%;
+    }
+    .myInfoContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 90%;
+    }
+    .aboutTitle {
+        font-size: 15vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .aboutDescrip {
+        align-self: center;
+        justify-self: stretch;
+        font-size: 4vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+    }
+    .mySkillsContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        width: 90%;
+    }
+    .skillsTitle {
+        font-size: 16vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .mySkillsList {
+        align-self: center;
+        justify-self: stretch;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 10px;
+        padding: 15px;
+        text-align: center;
+        width: 96%;
+    }
+    .skillsIcons {
+        width: 29%;
+    }
+    .skillsIcons:hover {
+        width: 31%;
+    }
+    .myProjectsContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 90%;
+    }
+    .projectsTitle {
+        font-size: 16vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .sliderContainer {
+        align-self: center;
+        justify-self: center;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+        text-align: center;
+        width: 96%;
+    }
+    .sliderContainer .sliderItems .item .caption {
+        position: relative;
+    }
+    .contactMeContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 99%;
+        height: 100%;
+        justify-self: center;
+        margin-top: 60px;
+        width: 90%;
+    }
+    
+    .contactMeList {
+        align-self: center;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+        text-align: center;
+        width: 94%;
+    }
+    .contactMeTitle {
+        font-size: 15vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        margin-top: 110px;
+        text-align: center;
+        width: 98%;
+    }
+    .contactIcon {
+        width: 18%;
+        margin: 0;
+        padding: 10px;
+    }
+    .contactIcon:hover {
+        width: 20%;
+    }
+}
+
+
+@media screen and (min-width: 280px) and (max-width: 399px) {
+    .introduction, .introductionSpa {
+        background-image: url("../images/backgroundM.jpg");
+        height: 650px;
+        width: 100%;
+    }
+    .changeLanguage {
+        background: rgba(255,255,255,0.7);
+        font-size: 15px;
+        justify-self: center;
+    }
+    .denNameRole {
+        width: 95%;
+    }
+    .myInfoContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 98%;
+    }
+    .aboutTitle {
+        font-size: 18vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .aboutDescrip {
+        align-self: center;
+        justify-self: stretch;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+    }
+    .mySkillsContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 98%;
+    }
+    .skillsTitle {
+        font-size: 18vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .mySkillsList {
+        align-self: center;
+        justify-self: stretch;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+        padding: 10px;
+        text-align: center;
+        width: 95%;
+    }
+    .skillsIcons {
+        width: 31%;
+    }
+    .skillsIcons:hover {
+        width: 33%;
+    }
+    .myProjectsContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 98%;
+    }
+    .projectsTitle {
+        font-size: 18vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .sliderContainer {
+        align-self: center;
+        justify-self: stretch;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin: 0;
+        margin-bottom: 30px;
+        text-align: center;
+        width: 90%;
+    }
+    .sliderContainer .sliderItems .item .caption {
+        position: relative;
+    }
+    .contactMeContainer {
+        align-self: center;
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        width: 90%;
+    }
+    .contactMeList {
+        align-self: center;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+        padding: 15px;
+        text-align: center;
+        width: 95%;
+    }
+    .contactMeTitle {
+        font-size: 18vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        margin-top: 110px;
+        text-align: center;
+        width: 98%;
+    }
+    .contactIcon {
+        width: 28%;
+        margin: 0;
+        padding: 10px;
+    }
+    .contactIcon:hover {
+        width: 30%;
+    }
 }
