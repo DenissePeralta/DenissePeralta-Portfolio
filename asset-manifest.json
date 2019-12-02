@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DenissePeralta-Portfolio/static/css/main.59dcb98b.chunk.css",
-    "main.js": "/DenissePeralta-Portfolio/static/js/main.2435b9d4.chunk.js",
-    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.2435b9d4.chunk.js.map",
+    "main.css": "/DenissePeralta-Portfolio/static/css/main.a9f63032.chunk.css",
+    "main.js": "/DenissePeralta-Portfolio/static/js/main.67b57d8f.chunk.js",
+    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.67b57d8f.chunk.js.map",
     "runtime-main.js": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js",
     "runtime-main.js.map": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js.map",
-    "static/js/2.25e659f5.chunk.js": "/DenissePeralta-Portfolio/static/js/2.25e659f5.chunk.js",
-    "static/js/2.25e659f5.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.25e659f5.chunk.js.map",
+    "static/js/2.2d02f213.chunk.js": "/DenissePeralta-Portfolio/static/js/2.2d02f213.chunk.js",
+    "static/js/2.2d02f213.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.2d02f213.chunk.js.map",
     "index.html": "/DenissePeralta-Portfolio/index.html",
-    "precache-manifest.9ae9e8b8158882c3c17b7563861b01f0.js": "/DenissePeralta-Portfolio/precache-manifest.9ae9e8b8158882c3c17b7563861b01f0.js",
+    "precache-manifest.1e7c47870f82916323013484652f69e4.js": "/DenissePeralta-Portfolio/precache-manifest.1e7c47870f82916323013484652f69e4.js",
     "service-worker.js": "/DenissePeralta-Portfolio/service-worker.js",
-    "static/css/main.59dcb98b.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.59dcb98b.chunk.css.map",
+    "static/css/main.a9f63032.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.a9f63032.chunk.css.map",
     "static/media/DenissePeraltaCV.pdf": "/DenissePeralta-Portfolio/static/media/DenissePeraltaCV.8f14ca9a.pdf",
     "static/media/index.css": "/DenissePeralta-Portfolio/static/media/background.7f8a0d22.jpg",
     "static/media/componentsStyle.css": "/DenissePeralta-Portfolio/static/media/backgroundM.dec43cad.jpg",
@@ -20,6 +20,7 @@
     "static/media/dpbRoleEsp.png": "/DenissePeralta-Portfolio/static/media/dpbRoleEsp.0f92ca45.png",
     "static/media/github.png": "/DenissePeralta-Portfolio/static/media/github.35568548.png",
     "static/media/labnotess.gif": "/DenissePeralta-Portfolio/static/media/labnotess.adb43b1c.gif",
+    "static/media/mdLinks.gif": "/DenissePeralta-Portfolio/static/media/mdLinks.eb4c9950.gif",
     "static/media/tech1.png": "/DenissePeralta-Portfolio/static/media/tech1.6ba76f89.png",
     "static/media/tech10.png": "/DenissePeralta-Portfolio/static/media/tech10.c0ac970f.png",
     "static/media/tech2.png": "/DenissePeralta-Portfolio/static/media/tech2.c3451912.png",
@@ -51,8 +52,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9bc51a37.js",
-    "static/js/2.25e659f5.chunk.js",
-    "static/css/main.59dcb98b.chunk.css",
-    "static/js/main.2435b9d4.chunk.js"
+    "static/js/2.2d02f213.chunk.js",
+    "static/css/main.a9f63032.chunk.css",
+    "static/js/main.67b57d8f.chunk.js"
   ]
 }
