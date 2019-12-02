@@ -41,11 +41,24 @@ const MyProjectsSpanish = () => {
                                 <span className="slideDescription">
                                     {`HOUR TIME`}<br></br>
                                     {`Aplicación web para crear, eliminar y editar notas. Trabajo individual.`}<br></br>
-                                    {`HTML5, CSS3, JS ES6, Git y GitHub, GitHub Projects, Figma, Ribbet, React, Firebase`}
+                                    {`HTML5, CSS3, JS ES6, Git y GitHub, GitHub Projects, Figma, Ribbet, React, Firebase, Responsivo`}
                                 </span>
                                 <div className="buttonsContainer">
                                     <a href="https://github.com/DenissePeralta/GDL003-lab-notes" className="codeButton" target="_blank" rel="noopener noreferrer">Ver Código</a>
                                     <a href="https://denisseperalta.github.io/GDL003-lab-notes/" className="demoButton" target="_blank" rel="noopener noreferrer">Ver Proyecto</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="item">
+                            <img src={require('../images/mdLinks.gif')} alt="My Projects"></img>
+                            <div className="caption">
+                                <span className="slideDescription">
+                                    {`MD LINKS`}<br></br>
+                                    {`Proyecto de back-end para verificar las ligas dentro de un archivo Markdown/Marcado ligero (.md). Trabajo individual.`}<br></br>
+                                    {`Nodejs, npm, JS ES6, Git and GitHub, GitHub Projects, HTTTP get, Back-end`}
+                                </span>
+                                <div className="buttonsContainer">
+                                    <a href="https://github.com/DenissePeralta/GDL003-md-links" className="codeButton" target="_blank" rel="noopener noreferrer">Ver Código</a>
                                 </div>
                             </div>
                         </div>
