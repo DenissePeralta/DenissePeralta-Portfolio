@@ -12,5 +12,4 @@ function IntroSpanish() {
   );
 }
 
-/*<img src={photoDen}alt="Denisse photo" className="denPhoto"></img>*/
 export default IntroSpanish;

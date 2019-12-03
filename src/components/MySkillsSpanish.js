@@ -25,7 +25,7 @@ const MySkillsSpanish = () => {
              <img src={require('../images/valor8.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/valor9.png')} alt="My Skills" className="skillsIcons"></img>
             </section>
-            <p className="skillsTitle">HABILI<br></br>DADES</p>
+            <p className="skillsTitle">HABILI DADES</p>
         </section>
     );
   }
