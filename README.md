@@ -9,16 +9,6 @@ I have the goal to get involve in social activities aimed to fight for the well-
 
 ## Skills
 ---
-### Soft skills
-* Responsability
-* Collaborative work
-* Empathy
-* Determination
-* Integrity
-* Decision making
-* Leadership
-* Agile methodology
-* Self-learning
 
 ### Tech skills
 * HTML 5
@@ -32,6 +22,18 @@ I have the goal to get involve in social activities aimed to fight for the well-
 * Figma
 * React Native
 * Trello
+
+### Soft skills
+* Responsability
+* Collaborative work
+* Empathy
+* Determination
+* Integrity
+* Decision making
+* Leadership
+* Agile methodology
+* Self-learning
+
 
 ## Projects
 ---
