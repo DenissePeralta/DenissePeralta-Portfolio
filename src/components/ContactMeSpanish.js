@@ -1,6 +1,6 @@
 import React from 'react';
 import './componentsStyle.css';
-import CV from "../images/DenissePeraltaCV.pdf";
+import CV from "../images/Denisse_Peralta_Resume.pdf";
 
 const ContactMeSpanish = () => {
     return (
