@@ -3,6 +3,7 @@
 }
 
 .introduction, .introductionSpa {
+    background: url("../images/header.png");
     background-image: url("../images/header.svg");
     background-size: cover;
     background-attachment: fixed;
@@ -515,6 +516,7 @@
 
 @media screen and (min-width: 300px) and (max-width: 440px) {
     .introduction, .introductionSpa {
+        background: url("../images/mobileHeader.png");
         background-image: url("../images/mobileHeader.svg");
         height: 690px;
         width: 100%;
