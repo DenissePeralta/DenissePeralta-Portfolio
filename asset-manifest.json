@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/DenissePeralta-Portfolio/static/css/main.9f0d5ba8.chunk.css",
-    "main.js": "/DenissePeralta-Portfolio/static/js/main.77a239b4.chunk.js",
-    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.77a239b4.chunk.js.map",
+    "main.css": "/DenissePeralta-Portfolio/static/css/main.4d918f7f.chunk.css",
+    "main.js": "/DenissePeralta-Portfolio/static/js/main.6d491474.chunk.js",
+    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.6d491474.chunk.js.map",
     "runtime-main.js": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js",
     "runtime-main.js.map": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js.map",
-    "static/js/2.433163f1.chunk.js": "/DenissePeralta-Portfolio/static/js/2.433163f1.chunk.js",
-    "static/js/2.433163f1.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.433163f1.chunk.js.map",
+    "static/js/2.63c9574a.chunk.js": "/DenissePeralta-Portfolio/static/js/2.63c9574a.chunk.js",
+    "static/js/2.63c9574a.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.63c9574a.chunk.js.map",
     "index.html": "/DenissePeralta-Portfolio/index.html",
-    "precache-manifest.59727f255ff0f10a29b51f488a17a902.js": "/DenissePeralta-Portfolio/precache-manifest.59727f255ff0f10a29b51f488a17a902.js",
+    "precache-manifest.ebf13be0ed752a85051b3e28befc87ab.js": "/DenissePeralta-Portfolio/precache-manifest.ebf13be0ed752a85051b3e28befc87ab.js",
     "service-worker.js": "/DenissePeralta-Portfolio/service-worker.js",
-    "static/css/main.9f0d5ba8.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.9f0d5ba8.chunk.css.map",
+    "static/css/main.4d918f7f.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.4d918f7f.chunk.css.map",
     "static/media/Denisse_Peralta_Resume.pdf": "/DenissePeralta-Portfolio/static/media/Denisse_Peralta_Resume.f1bcc6c1.pdf",
     "static/media/index.css": "/DenissePeralta-Portfolio/static/media/background.7f8a0d22.jpg",
     "static/media/cipher.gif": "/DenissePeralta-Portfolio/static/media/cipher.fb8647e5.gif",
     "static/media/datalovers.gif": "/DenissePeralta-Portfolio/static/media/datalovers.e07df144.gif",
     "static/media/github.png": "/DenissePeralta-Portfolio/static/media/github.35568548.png",
-    "static/media/componentsStyle.css": "/DenissePeralta-Portfolio/static/media/mobileHeader.5aece20b.svg",
     "static/media/labnotess.gif": "/DenissePeralta-Portfolio/static/media/labnotess.adb43b1c.gif",
     "static/media/mdLinks.gif": "/DenissePeralta-Portfolio/static/media/mdLinks.eb4c9950.gif",
+    "static/media/myPhotoBg0.svg": "/DenissePeralta-Portfolio/static/media/myPhotoBg0.e86be22a.svg",
     "static/media/tech1.png": "/DenissePeralta-Portfolio/static/media/tech1.6ba76f89.png",
     "static/media/tech10.png": "/DenissePeralta-Portfolio/static/media/tech10.c0ac970f.png",
     "static/media/tech2.png": "/DenissePeralta-Portfolio/static/media/tech2.c3451912.png",
@@ -50,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9bc51a37.js",
-    "static/js/2.433163f1.chunk.js",
-    "static/css/main.9f0d5ba8.chunk.css",
-    "static/js/main.77a239b4.chunk.js"
+    "static/js/2.63c9574a.chunk.js",
+    "static/css/main.4d918f7f.chunk.css",
+    "static/js/main.6d491474.chunk.js"
   ]
 }
