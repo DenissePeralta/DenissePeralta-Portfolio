@@ -5,7 +5,21 @@ import './componentsStyle.css';
 function IntroSpanish() {
   return (
     <section className="introductionSpa">
-      <p className="changeLanguage"><Link to="/" className="links"><span role="img" aria-label="united states flag">🇺🇸</span> ENG</Link></p>
+            <section className="introFoto">
+        <img src={require('../images/myPhotoBg0.svg')} alt="My face Denisse" className="myPhoto"></img>
+      </section>
+      <section className="introNameRole">
+        <div className="changeLanguage">
+          <Link to="/" className="links">
+            <span role="img" aria-label="united states flag">🇺🇸</span> ENG
+          </Link>
+        </div>
+        <div className="introData">
+          <p className="myName">DENISSE</p>
+          <p className="myLastName">PERALTA</p>
+          <p className="myRole">desarrolladora front-end</p>
+        </div>
+      </section>
     </section> 
   );
 }
