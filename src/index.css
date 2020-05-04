@@ -16,10 +16,14 @@ code {
     monospace;
 }
 
+.denLogo {
+  width: 90px;
+}
+
 footer {
-  background-color: #0D0D0D;
+  background-color: #FA6B55;
   color: #FFFFFF;
-  height: 15%;
+  height: auto;
   margin-top: 20px;
   padding: 30px;
   text-align: center;
