@@ -83,7 +83,7 @@
 }
 
 .aboutTitle {
-    color: #FFFFFF;
+    color: #000000;
     font-family: 'Oswald', sans-serif;
     font-size: 10vw;
     align-self: center;
@@ -96,9 +96,9 @@
 
 .aboutDescrip {
     align-self: center;
-    color: #FFFFFF;
+    color: #000000;
     justify-self: stretch;
-    background: rgba(0,0,0,0.8);
+    background: rgba(255, 255, 255, 0.8);
     border-radius: 12px;
     font-size: 1.8vw;
     font-family: 'Open Sans Condensed', sans-serif;
@@ -114,7 +114,7 @@
 }
 
 .skillsTitle {
-    color: #FFFFFF;
+    color: #000000;
     font-family: 'Oswald', sans-serif;
     font-size: 10vw;
     align-self: center;
@@ -127,7 +127,7 @@
 
 .mySkillsList {
     align-self: center;
-    background: rgba(0,0,0,0.8);
+    background: rgba(255, 255, 255, 0.8);
     border-radius: 12px;
     font-size: 1.8vw;
     grid-column-start: 1;
@@ -153,7 +153,7 @@
 }
 
 .projectsTitle {
-    color: #FFFFFF;
+    color: #000000;
     font-family: 'Oswald', sans-serif;
     font-size: 10vw;
     align-self: center;
@@ -227,7 +227,7 @@
 
 .contactMeList {
     align-self: center;
-    background: rgba(0,0,0,0.8);
+    background: rgba(255, 255, 255, 0.8);
     border-radius: 12px;
     font-size: 1.8vw;
     grid-column-start: 1;
@@ -238,7 +238,7 @@
 }
 
 .contactMeTitle {
-    color: #FFFFFF;
+    color: #000000;
     font-family: 'Oswald', sans-serif;
     font-size: 8vw;
     align-self: center;
