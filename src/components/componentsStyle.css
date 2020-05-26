@@ -103,7 +103,7 @@
     font-size: 1.8vw;
     font-family: 'Open Sans Condensed', sans-serif;
     grid-column-start: 2;
-    padding: 20px;
+    padding: 22px;
     text-align: justify;
 }
 
@@ -147,7 +147,7 @@
 
 .myProjectsContainer {
     display: grid;
-    margin-top: 10px;
+    margin-top: 40px;
     grid-template-columns: 32% 68%;
     padding: 10px;
 }
@@ -165,55 +165,45 @@
 }
 
 .sliderContainer {
+    display: grid; 
+    grid-column-start: 2; 
+    grid-gap: 15px;  
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-rows: repeat(auto-fit);
+    justify-self: center;
     max-width: 95%;
+}
+
+.projectsItem {
+    background: rgba(255, 255, 255, 0.8);
     border: 10px solid white;
-    grid-column-start: 2;
-    margin: 30px auto;
-    padding: 8px;
-    position: relative;
+    height: 95%;
+    object-fit: cover;
+    text-align: center; 
 }
 
-.sliderContainer .sliderItems .item img {
-    max-width: 100%;
-    position: relative;
+.projectsItem > img {  
+    width: 100%;  
+    object-fit: cover;  
 }
 
-.sliderContainer .sliderItems .item {
-    position: relative;
-    margin-top: 10px;
-    margin-bottom: 25px;
+.itemTitle {
+    font-weight: bold;
+    font-size: 17px;
 }
 
-.sliderContainer .sliderItems .item .caption {
-    background-color: #000000;
-    color: #FFFFFF;
-    position: absolute;
-    width: 100%;
-    height: auto;
-    bottom: 0px;
-    left: 0px;
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 21px;
-    padding: 20px 0px;
-    text-align: center;
-}
-
-.slideDescription {
-    margin-bottom: 10px;
-}
-
-.buttonsContainer {
-    margin-top: 15px;
+.caption, .buttonsContainer  {
+    padding: 15px;
 }
 
 .codeButton, .demoButton {
     text-decoration: none;
     border-radius: 6px;
     color: #FFFFFF;
-    background-color: #fc6767;
+    background-color: #219664;
     padding: 7px;
     margin-right: 10px;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: bold;
 }
 
@@ -258,6 +248,8 @@
 .contactIcon:hover {
     width: 16%;
 }
+
+/* Here start the media queries for Responsive Screens */
 
 /* @media screen and (min-width: 900px) and (max-width: 1000px) {
     .introduction, .introductionSpa {

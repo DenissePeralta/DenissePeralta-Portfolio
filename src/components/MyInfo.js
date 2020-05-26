@@ -5,15 +5,15 @@ const AboutMe = () => {
     return (
         <section className="myInfoContainer">
             <p className="aboutTitle">ABOUT ME</p>
-            <p className="aboutDescrip">{`I’m a woman passionate about dancing, music and travel. I'm curious to search, explore 
-            and learn new things. I see myself as a decisive person who always seeks to translate ideas into concrete actions, 
-            I resort to empathy to understand people needs and I rely on congruence to align what I think with what I say and do.
-            I studied the bachelor in Business Administration with experience in the Financial area but now I’m 
-            discovering a big interest in graphic design, programming and technology.`}
+            <p className="aboutDescrip">{`I have a real passion about dancing, music and travel but I also enjoy exploring into the life mysteries,  
+            learning new things and master some other abilities. I always seeks to translate the ideas into concrete actions and on my way to that goal,
+            I implement different ethical values that defines who I am and the essence that I print in every action or decision.`}
             <br></br><br></br>
-            {`I have the goal to get involve in social activities aimed to fight for the well-being and development 
-            of the communities and ecosystems around me, so I love the idea of ​​being able to create innovative web products and 
-            incredible applications to provide a digital solution to some of the challenges lived day by day in the society.`}</p>
+            {`I studied the bachelor in Business Administration with experience in the Financial area, but now, I’m 
+            discovering a big interest in the technology field as AI, IoT, UX/UI, graphic design and software development.`}
+            <br></br><br></br>
+            {`I love the fact that I can use my skills to create innovative web products and 
+            incredible applications to provide digital solutions to some of the challenges lived day by day in the society, community and even in the world.`}</p>
         </section>
     );
   }
