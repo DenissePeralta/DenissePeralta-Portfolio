@@ -1,5 +1,5 @@
 # My Portfolio
-![Denisse-Peralta](https://i.ibb.co/2MTX3sV/DPLogo700.png)
+![Denisse-Peralta](https://i.ibb.co/dr7yHQC/DPLogo400.png)
 
 ## About me
 ---
