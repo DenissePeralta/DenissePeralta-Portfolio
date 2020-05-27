@@ -138,16 +138,16 @@
 }
 
 .skillsIcons {
-    width: 17%;
+    width: 18%;
 }
 
 .skillsIcons:hover {
-    width: 19%;
+    width: 20%;
 }
 
 .myProjectsContainer {
     display: grid;
-    margin-top: 40px;
+    margin-top: 80px;
     grid-template-columns: 32% 68%;
     padding: 10px;
 }
