@@ -33,14 +33,14 @@
     border: none;
     border-radius: 6px;
     cursor: pointer;
-    font-size: 17px;
+    font-size: 18px;
     font-weight: bold;
     grid-row-start: 1;
     justify-self: end;
     margin-top: 20px;
     margin-right: 10px;
-    padding: 10px;
-    width: 10%;
+    padding: 8px;
+    width: 8vw;
 }
 
 .links {
@@ -100,7 +100,7 @@
     justify-self: stretch;
     background: rgba(255, 255, 255, 0.8);
     border-radius: 12px;
-    font-size: 1.8vw;
+    font-size: 30px;
     font-family: 'Open Sans Condensed', sans-serif;
     grid-column-start: 2;
     padding: 22px;
@@ -251,21 +251,12 @@
 
 /* Here start the media queries for Responsive Screens */
 
-/* @media screen and (min-width: 900px) and (max-width: 1000px) {
-    .introduction, .introductionSpa {
-        height: 770px;
+@media screen and (min-width: 600px) and (max-width: 900px) {
+    .changeLanguage {
+        width: 10vw;
     }
-    .denNameRole {
-        width: 80%;
-    }
-}
-
-@media screen and (min-width: 700px) and (max-width: 899px) {
-    .introduction, .introductionSpa {
-        height: 790px;
-    }
-    .denNameRole {
-        width: 90%;
+    .myName, .myLastName, .myRole {
+        margin-top: 20px;
     }
     .myInfoContainer {
         display: grid;
@@ -295,7 +286,7 @@
     }
     .mySkillsContainer {
         display: grid;
-        grid-template-rows: 17% 83%;
+        grid-template-rows: 15% 85%;
         grid-template-columns: 100%;
         height: 100%;
         justify-self: center;
@@ -330,10 +321,11 @@
     }
     .myProjectsContainer {
         display: grid;
-        grid-template-rows: 17% 83%;
+        grid-template-rows: 8% 92%;
         grid-template-columns: 100%;
         height: 100%;
         justify-self: center;
+        margin-bottom: 10px;
         padding: 0px 0px 30px 0px;
         width: 90%;
     }
@@ -347,24 +339,28 @@
         width: 98%;
     }
     .sliderContainer {
-        align-self: center;
-        justify-self: center;
-        font-size: 6vw;
         grid-column-start: 1;
         grid-row-start: 2;
-        margin-bottom: 30px;
-        padding: 15px;
-        text-align: center;
+        margin-bottom: 70px;
         width: 96%;
-    }
+    } 
     .contactMeContainer {
         display: grid;
-        grid-template-rows: 17% 83%;
+        grid-template-rows: 30% 70%;
         grid-template-columns: 100%;
         height: 100%;
         justify-self: center;
         padding: 0px 0px 30px 0px;
         width: 90%;
+    }
+    .contactMeTitle {
+        font-size: 15vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
     }
     .contactMeList {
         align-self: center;
@@ -375,17 +371,7 @@
         margin-bottom: 30px;
         padding: 15px;
         text-align: center;
-        width: 96%;
-    }
-    .contactMeTitle {
-        font-size: 15vw;
-        align-self: center;
-        grid-column-start: 1;
-        grid-row-start: 1;
-        margin: 0;
-        margin-top: 110px;
-        text-align: center;
-        width: 98%;
+        width: 95%;
     }
     .contactIcon {
         width: 18%;
@@ -397,14 +383,166 @@
     }
 }
 
-@media screen and (min-width: 441px) and (max-width: 699px) {
+@media screen and (min-width: 300px) and (max-width: 600px) {
     .introduction, .introductionSpa {
-        height: 690px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+        grid-template-rows: repeat(auto-fit, 50%);
+        height: 100vh;
+        width: 100%;
+        margin: 0;
+        padding: 0;
     }
-    .denNameRole {
-        width: 90%;
+    .introNameRole {
+        display: grid;
+        grid-template-columns: repeat(1, 100%);
+        grid-template-rows: 80% 20%;
+    }
+    .introData {
+        margin-top: 10px;
+        grid-row-start: 1;
+    }
+    .myPhoto {
+        height: 110%;
+    }
+    .myName {
+        font-size: 19vw;
+    }
+    .myLastName {
+        font-size: 17vw;
+    }
+    .changeLanguage {
+        grid-row-start: 2;
         justify-self: center;
+        padding: 4px;
+        width: 20vw;
     }
+    .myInfoContainer {
+        display: grid;
+        grid-template-rows: 17% 83%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 90%;
+    }
+    .aboutTitle {
+        font-size: 19vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .aboutDescrip {
+        align-self: center;
+        justify-self: stretch;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+    }
+    .mySkillsContainer {
+        display: grid;
+        grid-template-rows: 15% 85%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 90%;
+    }
+    .skillsTitle {
+        font-size: 19vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .mySkillsList {
+        align-self: center;
+        justify-self: stretch;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+        padding: 15px;
+        text-align: center;
+        width: 96%;
+    }
+    .skillsIcons {
+        width: 40%;
+    }
+    .skillsIcons:hover {
+        width: 42%;
+    }
+    .myProjectsContainer {
+        display: grid;
+        grid-template-rows: 8% 92%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        margin-bottom: 10px;
+        padding: 0px 0px 30px 0px;
+        width: 90%;
+    }
+    .projectsTitle {
+        font-size: 19vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .sliderContainer {
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 70px;
+        width: 96%;
+    } 
+    .contactMeContainer {
+        display: grid;
+        grid-template-rows: 30% 70%;
+        grid-template-columns: 100%;
+        height: 100%;
+        justify-self: center;
+        padding: 0px 0px 30px 0px;
+        width: 90%;
+    }
+    .contactMeTitle {
+        font-size: 18vw;
+        align-self: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        margin: 0;
+        text-align: center;
+        width: 98%;
+    }
+    .contactMeList {
+        align-self: center;
+        justify-self: stretch;
+        font-size: 6vw;
+        grid-column-start: 1;
+        grid-row-start: 2;
+        margin-bottom: 30px;
+        padding: 15px;
+        text-align: center;
+        width: 95%;
+    }
+    .contactIcon {
+        width: 20%;
+        margin: 0;
+        padding: 10px;
+    }
+    .contactIcon:hover {
+        width: 22%;
+    }
+}
+
+/*@media screen and (min-width: 441px) and (max-width: 699px) {
+
     .myInfoContainer {
         display: grid;
         grid-template-rows: 17% 83%;

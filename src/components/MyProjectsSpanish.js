@@ -10,7 +10,7 @@ const MyProjectsSpanish = () => {
                     <img src={require('../images/cipher.gif')} alt="My Projects"></img>
                     <div className="caption">
                         <span className="itemDescription">
-                            <span class="itemTitle">SHHH!</span><br></br>
+                            <span className="itemTitle">SHHH!</span><br></br>
                             {`Aplicación web para cifrar/descifrar texto y mensajes.`}<br></br>
                             {`HTML5, CSS3, JS ES6, Git y GitHub, Kanban, Responsivo`}<br></br>
                             {`Trabajo individual.`}
@@ -25,7 +25,7 @@ const MyProjectsSpanish = () => {
                     <img src={require('../images/datalovers.gif')} alt="My Projects"></img>
                     <div className="caption">
                         <span className="itemDescription">
-                             <span class="itemTitle">POKEMON</span><br></br>
+                             <span className="itemTitle">POKEMON</span><br></br>
                             {`Aplicación web para visualizar, filtrar y ordenar tarjetas de los personajes Pokemon.`}<br></br>
                             {`HTML5, CSS3, JS ES6, Git y GitHub, Google Charts, Kanban, Figma, Responsivo`}<br></br>
                             {`Trabajo colaborativo.`}
@@ -40,7 +40,7 @@ const MyProjectsSpanish = () => {
                     <img src={require('../images/labnotess.gif')} alt="My Projects"></img>
                     <div className="caption">
                         <span className="itemDescription">
-                            <span class="itemTitle">HOUR TIME</span><br></br>
+                            <span className="itemTitle">HOUR TIME</span><br></br>
                             {`Aplicación web para crear, eliminar y editar notas.`}<br></br>
                             {`HTML5, CSS3, JS ES6, Git y GitHub, GitHub Projects, Figma, React, Firebase, Responsivo`}<br></br>
                             {`Trabajo individual.`}
@@ -55,7 +55,7 @@ const MyProjectsSpanish = () => {
                     <img src={require('../images/mdLinks.gif')} alt="My Projects"></img>
                     <div className="caption">
                         <span className="itemDescription">
-                            <span class="itemTitle">MD LINKS REVIEWER</span><br></br>
+                            <span className="itemTitle">MD LINKS REVIEWER</span><br></br>
                             {`Proyecto back-end para verificar el estatus de las ligas dentro de un archivo Markdown/Marcado ligero.`}<br></br>
                             {`Nodejs, npm, JS ES6, Git y GitHub, GitHub Projects, HTTTP get`}<br></br>
                             {`Trabajo individual.`}
