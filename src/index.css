@@ -3,6 +3,7 @@ body {
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
+  display: grid;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
@@ -24,7 +25,8 @@ footer {
   color: #FFFFFF;
   font-size: 19px;
   height: auto;
-  margin-top: 70px;
+  margin: 0;
+  margin-top: 150px;
   padding: 30px;
   text-align: center;
   width: auto;
