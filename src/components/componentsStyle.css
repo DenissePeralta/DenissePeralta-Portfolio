@@ -149,7 +149,7 @@
 .myProjectsContainer {
     display: grid;
     margin-top: 80px;
-    grid-template-columns: 32% 68%;
+    grid-template-columns: 30% 70%;
     padding: 10px;
 }
 
@@ -170,7 +170,7 @@
     font-family: 'Open Sans Condensed', sans-serif;
     grid-column-start: 2; 
     grid-gap: 12px;  
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
     grid-template-rows: repeat(auto-fit);
     justify-self: center;
 }
