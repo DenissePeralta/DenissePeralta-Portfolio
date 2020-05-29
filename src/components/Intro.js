@@ -11,7 +11,7 @@ function Intro() {
       <section className="introNameRole">
         <div className="changeLanguage">
           <Link to="/portafolioEnEspañol" className="links">
-            <span role="img" aria-label="mexico's flag">🇲🇽</span> ESP
+            <span role="img" aria-label="mexico's flag">🇲🇽 ESP</span>
           </Link>
         </div>
         <div className="introData">

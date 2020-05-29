@@ -11,7 +11,7 @@ function IntroSpanish() {
       <section className="introNameRole">
         <div className="changeLanguage">
           <Link to="/" className="links">
-            <span role="img" aria-label="united states flag">🇺🇸</span> ENG
+            <span role="img" aria-label="united states flag">🇺🇸 ENG</span>
           </Link>
         </div>
         <div className="introData">
