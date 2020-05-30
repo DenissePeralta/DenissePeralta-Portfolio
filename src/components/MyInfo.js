@@ -10,8 +10,8 @@ const MyInfo = () => {
             I implement different values that defines who I am and the essence that I print in every interaction or decision that I make.`}
             <br></br><br></br>
             {`I studied the bachelor in Business Administration with experience in the Financial area, but now, I’m discovering a big interest in the technology 
-            field such as Artificial Iintelligence, IoT, UX/UI, graphic design and software development. I love the fact 
-            that I can use my creativity and skills to collaborate in the creation of innovative web products and incredible applications to provide digital solutions 
+            field such as AI, IoT, UX/UI, graphic design and software development. I love the fact that I can use my creativity and skills to 
+            collaborate in the creation of innovative web products and incredible applications to provide digital solutions 
             to some of the challenges lived day by day in the community and even in the world.`}</p>
         </section>
     );
