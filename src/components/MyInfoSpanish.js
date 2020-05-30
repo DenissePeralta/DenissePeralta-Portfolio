@@ -1,7 +1,7 @@
 import React from 'react';
 import './componentsStyle.css';
 
-const AboutMeSpanish = () => {
+const MyInfoSpanish = () => {
     return (
         <section className="myInfoContainer">
             <p className="aboutTitle">ACERCA DE MI</p>
@@ -17,4 +17,4 @@ const AboutMeSpanish = () => {
     );
   }
   
-  export default AboutMeSpanish;
+  export default MyInfoSpanish;

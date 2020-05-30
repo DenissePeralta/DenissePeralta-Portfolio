@@ -1,7 +1,7 @@
 import React from 'react';
 import './componentsStyle.css';
 
-const AboutMe = () => {
+const MyInfo = () => {
     return (
         <section className="myInfoContainer">
             <p className="aboutTitle">ABOUT ME</p>
@@ -17,4 +17,4 @@ const AboutMe = () => {
     );
   }
   
-  export default AboutMe;
+  export default MyInfo;
