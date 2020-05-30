@@ -177,10 +177,6 @@
     grid-gap: 15px;
     grid-template-columns: repeat(auto-fit, minmax(30em, 1fr));
     grid-template-rows: repeat(auto-fit);
-    /* grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    grid-template-rows: repeat(2, 590px); 
-        grid-template-columns: repeat(auto-fit, minmax(400px, auto));
-    grid-template-rows: repeat(2, minmax(auto, auto));*/
 }
 
 .projectsItem {
@@ -570,14 +566,14 @@
         margin: auto;
         padding: 13px;
         text-align: center;
-        width: 95%;
+        width: 94%;
     }
     .contactIcon {
         margin: 0;
-        padding: 10px;
-        width: 29%;
+        padding: 13px;
+        width: 35%;
     }
     .contactIcon:hover {
-        width: 31%;
+        width: 36%;
     }
 }
