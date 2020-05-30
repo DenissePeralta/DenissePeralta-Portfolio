@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DenissePeralta-Portfolio/static/css/main.13807095.chunk.css",
-    "main.js": "/DenissePeralta-Portfolio/static/js/main.a916933d.chunk.js",
-    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.a916933d.chunk.js.map",
+    "main.js": "/DenissePeralta-Portfolio/static/js/main.a89e8eb3.chunk.js",
+    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.a89e8eb3.chunk.js.map",
     "runtime-main.js": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js",
     "runtime-main.js.map": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js.map",
     "static/js/2.31561f48.chunk.js": "/DenissePeralta-Portfolio/static/js/2.31561f48.chunk.js",
     "static/js/2.31561f48.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.31561f48.chunk.js.map",
     "index.html": "/DenissePeralta-Portfolio/index.html",
-    "precache-manifest.90cf870b195d4492b5a73e6076c65074.js": "/DenissePeralta-Portfolio/precache-manifest.90cf870b195d4492b5a73e6076c65074.js",
+    "precache-manifest.e52cf28b494993f9648e8769504cc8a3.js": "/DenissePeralta-Portfolio/precache-manifest.e52cf28b494993f9648e8769504cc8a3.js",
     "service-worker.js": "/DenissePeralta-Portfolio/service-worker.js",
     "static/css/main.13807095.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.13807095.chunk.css.map",
     "static/media/Denisse_Peralta_Resume.pdf": "/DenissePeralta-Portfolio/static/media/Denisse_Peralta_Resume.d15f9434.pdf",
@@ -52,6 +52,6 @@
     "static/js/runtime-main.9bc51a37.js",
     "static/js/2.31561f48.chunk.js",
     "static/css/main.13807095.chunk.css",
-    "static/js/main.a916933d.chunk.js"
+    "static/js/main.a89e8eb3.chunk.js"
   ]
 }
