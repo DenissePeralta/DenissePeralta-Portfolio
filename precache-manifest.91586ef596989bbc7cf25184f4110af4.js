@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2ea6cecf41b3e135110a758ee8a19c5",
+    "revision": "98b9adefe51aa89a743c62a22ada77df",
     "url": "/DenissePeralta-Portfolio/index.html"
   },
   {
