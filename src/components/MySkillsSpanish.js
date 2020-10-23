@@ -11,9 +11,11 @@ const MySkillsSpanish = () => {
              <img src={require('../images/tech4.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/tech5.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/tech6.png')} alt="My Skills" className="skillsIcons"></img>
-             <img src={require('../images/tech7.png')} alt="My Skills" className="skillsIcons"></img>
+             <img src={require('../images/tech12.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/tech8.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/tech9.png')} alt="My Skills" className="skillsIcons"></img>
+             <img src={require('../images/tech13.png')} alt="My Skills" className="skillsIcons"></img>
+             <img src={require('../images/tech14.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/tech10.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/tech11.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/valor1.png')} alt="My Skills" className="skillsIcons"></img>
@@ -22,6 +24,8 @@ const MySkillsSpanish = () => {
              <img src={require('../images/valor4.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/valor5.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/valor6.png')} alt="My Skills" className="skillsIcons"></img>
+             <img src={require('../images/valor8.png')} alt="My Skills" className="skillsIcons"></img>
+             <img src={require('../images/valor9.png')} alt="My Skills" className="skillsIcons"></img>
              <img src={require('../images/valor7.png')} alt="My Skills" className="skillsIcons"></img>
             </section>
             <p className="skillsTitle">HABILI DADES</p>

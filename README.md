@@ -3,9 +3,9 @@
 
 ## About me
 ---
-I have a real passion about dancing, music and travel but I also enjoy exploring into the life mysteries, learning new things and master some other abilities. I always seeks to translate the ideas into concrete actions, and on my way to that goal, I implement different ethical values that defines who I am and the essence that I print in every action or decision.
+I have a real passion about dancing, music and travel, but I also enjoy exploring into the life mysteries, gain knowledge in new topics and master some other abilities. I always seeks to translate the ideas into concrete actions, and on my way to that goal, I implement different values that defines who I am and the essence that I print in every interaction or decision that I make.
 
-I studied the bachelor in Business Administration with experience in the Financial area but now, I’m discovering a big interest in the technology field such as Artificial Iintelligence, IoT, UX/UI, graphic design and software development. I love the fact that I can use my creativity and skills to create innovative web products and incredible applications to provide digital solutions to some of the challenges lived day by day in the society, community and even in the world.
+I studied the bachelor in Business Administration with experience in the Financial area, but now, I’m discovering a big interest in the technology field such as AI, IoT, UX/UI, graphic design and software development. I love the fact that I can use my creativity and skills to collaborate in the creation of innovative web products and incredible applications to provide digital solutions to some of the challenges lived day by day in the society.
 
 ## Skills
 ---
@@ -17,9 +17,11 @@ I studied the bachelor in Business Administration with experience in the Financi
 * React
 * JAVA
 * Nodejs
-* Firebase
+* Salesforce
 * MongoDB
 * Git & GitHub
+* Jira
+* Bitbucket
 * Affinity Designer
 * Figma
 
@@ -30,6 +32,8 @@ I studied the bachelor in Business Administration with experience in the Financi
 * Integrity
 * Leadership
 * Self-learning
+* Creativity
+* Communication
 * Agile methodology
 
 ## Projects
@@ -54,5 +58,5 @@ I studied the bachelor in Business Administration with experience in the Financi
 Denisse Peralta  
 * [LinkedIn](https://www.linkedin.com/in/denisse-peralta-barrales/)
 * [GitHub](https://github.com/DenissePeralta)
-* [Email](dnisse-x00@hotmail.com)
+* [Email](mailto:dnisse-x00@hotmail.com)
 * Resume

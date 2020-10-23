@@ -6,7 +6,7 @@ const ContactMe = () => {
     return (
         <section className="contactMeContainer">
             <section className="contactMeList">
-                <a href="https://www.linkedin.com/in/denisse-peralta-barrales/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/denisse-peralta/" target="_blank" rel="noopener noreferrer">
                     <img src={require('../images/linkedin.svg')} alt="Social Media" className="contactIcon"></img>
                 </a>
                 <a href="https://github.com/DenissePeralta" target="_blank" rel="noopener noreferrer">

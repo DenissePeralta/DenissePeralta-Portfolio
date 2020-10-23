@@ -20,6 +20,14 @@ function Intro() {
           <p className="myRole">front-end developer</p>
         </div>
       </section>
+      <div className="scroll-wrapper">
+        <div className="container relative">
+          <div className="scroll-block">
+            <div className="scroll-arrow"></div>
+            <div className="scroll-text">scroll</div>
+          </div>
+        </div>
+      </div>
     </section>
   );
 }
