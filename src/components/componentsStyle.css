@@ -505,7 +505,7 @@
         grid-template-rows: repeat(1, 100%);
     }
     .introData {
-        align-self: start;
+        align-self: center;
         display: grid;
         grid-row-start: 1;
         margin: 0;
@@ -520,7 +520,7 @@
         line-height: 1em;
     }
     .myRole {
-        font-size: 4.9vh;
+        font-size: 5vh;
         line-height: 1.5em;
         padding: 0;
     }
