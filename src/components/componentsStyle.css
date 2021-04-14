@@ -488,7 +488,8 @@
     .introduction, .introductionSpa {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
-        grid-template-rows: repeat(auto-fit, 50%);
+        /* grid-template-rows: repeat(auto-fit, 50%); */
+        grid-template-rows: repeat(auto-fit, minmax(50%, 1fr));
         min-height: 100vh;
         width: 100%;
         margin: 0;
