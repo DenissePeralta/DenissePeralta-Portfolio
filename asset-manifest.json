@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DenissePeralta-Portfolio/static/css/main.f035ea5f.chunk.css",
-    "main.js": "/DenissePeralta-Portfolio/static/js/main.f731ffd2.chunk.js",
-    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.f731ffd2.chunk.js.map",
+    "main.css": "/DenissePeralta-Portfolio/static/css/main.86fb70d5.chunk.css",
+    "main.js": "/DenissePeralta-Portfolio/static/js/main.8787f0e1.chunk.js",
+    "main.js.map": "/DenissePeralta-Portfolio/static/js/main.8787f0e1.chunk.js.map",
     "runtime-main.js": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js",
     "runtime-main.js.map": "/DenissePeralta-Portfolio/static/js/runtime-main.9bc51a37.js.map",
     "static/js/2.37e8155f.chunk.js": "/DenissePeralta-Portfolio/static/js/2.37e8155f.chunk.js",
     "static/js/2.37e8155f.chunk.js.map": "/DenissePeralta-Portfolio/static/js/2.37e8155f.chunk.js.map",
     "index.html": "/DenissePeralta-Portfolio/index.html",
-    "precache-manifest.3363cc0d776c229d4e1220a254135430.js": "/DenissePeralta-Portfolio/precache-manifest.3363cc0d776c229d4e1220a254135430.js",
+    "precache-manifest.a53db311e78555841998dd1a4091166c.js": "/DenissePeralta-Portfolio/precache-manifest.a53db311e78555841998dd1a4091166c.js",
     "service-worker.js": "/DenissePeralta-Portfolio/service-worker.js",
-    "static/css/main.f035ea5f.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.f035ea5f.chunk.css.map",
-    "static/media/Denisse_Peralta_Resume.pdf": "/DenissePeralta-Portfolio/static/media/Denisse_Peralta_Resume.6257841a.pdf",
+    "static/css/main.86fb70d5.chunk.css.map": "/DenissePeralta-Portfolio/static/css/main.86fb70d5.chunk.css.map",
+    "static/media/Denisse_Peralta_Resume.pdf": "/DenissePeralta-Portfolio/static/media/Denisse_Peralta_Resume.1787d2c4.pdf",
     "static/media/index.css": "/DenissePeralta-Portfolio/static/media/background.a332cd9c.svg",
     "static/media/cipher.gif": "/DenissePeralta-Portfolio/static/media/cipher.84015c95.gif",
     "static/media/datalovers.gif": "/DenissePeralta-Portfolio/static/media/datalovers.e07df144.gif",
@@ -57,7 +57,7 @@
   "entrypoints": [
     "static/js/runtime-main.9bc51a37.js",
     "static/js/2.37e8155f.chunk.js",
-    "static/css/main.f035ea5f.chunk.css",
-    "static/js/main.f731ffd2.chunk.js"
+    "static/css/main.86fb70d5.chunk.css",
+    "static/js/main.8787f0e1.chunk.js"
   ]
 }
