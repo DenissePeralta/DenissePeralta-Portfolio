@@ -489,12 +489,15 @@
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
         /* grid-template-rows: repeat(auto-fit, 50%); */
-        grid-template-rows: repeat(2, 50%);
+        grid-template-rows: repeat(auto-fit, 50%);
         min-height: 100vh;
         width: 100%;
         margin: 0;
         margin-bottom: 40px;
         padding: 0;
+    }
+    .introFoto {
+        min-height: 50vh;
     }
     .myPhoto {
         align-self: start;
@@ -505,6 +508,7 @@
         display: grid;
         grid-template-columns: repeat(1, 100%);
         grid-template-rows: repeat(1, 100%);
+        min-height: 50vh;
     }
     .introData {
         align-self: center;
