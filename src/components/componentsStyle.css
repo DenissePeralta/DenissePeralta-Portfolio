@@ -63,18 +63,21 @@
 
 .myName {
     color: #FFFFFF;
+    font-family: 'Anton', sans-serif;
     font-size: 13vw;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 1.1em;
 }
 
 .myLastName {
     color: #FFFFFF;
-    font-size: 11vw;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 11.5vw;
+    line-height: 1.0em;
 }
 
 .myRole {
-    font-size: 5vh;
-    font-family: 'Miniver', cursive;
+    font-size: 6vh;
+    font-family: 'Amatic SC', cursive;
     padding: 20px;
     animation-duration: 3s;
     animation-name: slidein;
@@ -99,7 +102,7 @@
     right: auto;
     bottom: auto;
     display: inline-block;
-    width: 2px;
+    width: 2.4px;
     height: 100px;
     background-color: #000000;
     -webkit-transform-origin: 50% 100%;
@@ -151,7 +154,7 @@
     bottom: 0%;
     display: inline-block;
     overflow: hidden;
-    width: 46px;
+    width: 56px;
     height: 100px;
 }
 
@@ -538,6 +541,7 @@
     }
     .scroll-block {
         height: 70px;
+        width: 36px;
     }
     .myInfoContainer {
         display: grid;
