@@ -3,9 +3,11 @@
 
 ## About me
 ---
-I have a real passion about dancing, music and travel, but I also enjoy exploring into the life mysteries, gain knowledge in new topics and master other abilities. I always seek to translate the ideas into concrete actions, and on my way to that goal, I implement different core values that define who I am and the essence that I print in each decision that I make.
+I have a real passion about dancing, music, Sci-Fi movies/books and travel but I also enjoy reinventing myself, exploring into different topics, conquering new goals and mastering other abilities. I always seek to translate the ideas into actions with the support of core values that define who I am and the way I interact and respect others.
 
-I studied the bachelor in Business Administration with experience in the Financial area, but now, I’m discovering a big interest in the technology field such as AI, IoT, UX/UI, graphic design and software development. I love the fact that I can use my creativity and skills to collaborate in the creation of innovative web products and incredible applications to provide digital solutions to some of the challenges lived day by day in the society.
+I studied the bachelor in Business Administration with experience in Finance, but recently I’ve switched my professional path to start a new career in the technology field. I'm discovering amazing areas such as AI, IoT, UX/UI, graphic design, web development and software engineer in which I would like to leave a positive impact with my contribution and unique perspective.
+
+I love the fact that I can use my creativity and skills to collaborate in the creation of innovative web products and incredible applications to provide digital solutions to some of the challenges lived day by day in the society.
 
 ## Skills
 ---
@@ -42,7 +44,6 @@ I studied the bachelor in Business Administration with experience in the Financi
 * [Pokemon](https://denisseperalta.github.io/GDL003-data-lovers/src/)
 * [Hour Time](https://denisseperalta.github.io/GDL003-lab-notes/#/)
 * [MD Links](https://github.com/DenissePeralta/GDL003-md-links)
-* [Burger Kawaii](https://github.com/DenissePeralta/GDL003-Burger-Queen-Back-End)
 
 ## Tools
 ---

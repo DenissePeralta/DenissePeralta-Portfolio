@@ -10,8 +10,8 @@ const MyInfoSpanish = () => {
             valores que definen quién soy y la forma en que interactúo y respeto a los demás.`}
              <br></br><br></br>
             {`Estudié la licenciatura en Administración de Empresas con experiencia en Finanzas, pero recientemente he cambiado mi trayectoria profesional para comenzar una nueva carrera 
-            en el mundo de la tecnología. Estoy descubriendo áreas magníficas como lo es la inteligencia artificial, el internet de las cosas, UX/UI, diseño gráfico, desarrollo web e ingeniería de 
-            software, en las cuáles me gustaría dejar un impacto positivo con mi perspectiva y trabajo.`}
+            en el mundo de la tecnología. Estoy descubriendo áreas magníficas como lo es el internet de las cosas, UX/UI, diseño gráfico, desarrollo web e ingeniería de 
+            software, en las cuáles me gustaría dejar un impacto positivo con mi contribución y perspectiva única.`}
             <br></br><br></br>
             {`Me encanta el hecho de que puedo usar mi creatividad y destreza para colaborar en la creación de productos web innovadores y aplicaciones increíbles, con el fin de proporcionar 
             soluciones digitales a diversos desafíos que se viven día a día en la sociedad.`}</p>

@@ -10,7 +10,8 @@ const MyInfo = () => {
             I interact and respect others.`}
             <br></br><br></br>
             {`I studied the bachelor in Business Administration with experience in Finance, but recently I’ve switched my professional path to start a new career in the technology field. 
-            I'm discovering amazing areas such as AI, IoT, UX/UI, graphic design, web development and software engineer in which I would like to leave a positive impact with my work and perspective.`}
+            I'm discovering amazing areas such as IoT, UX/UI, graphic design, web development and software engineer in which I would like to leave a positive impact with my 
+            contribution and unique perspective.`}
             <br></br><br></br>
             {`I love the fact that I can use my creativity and skills to collaborate in the creation of innovative web products and incredible applications to provide digital solutions 
             to some of the challenges lived day by day in the society.`}</p>
